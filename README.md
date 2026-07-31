@@ -1,1 +1,1 @@
-# skill
+# pure-skill
