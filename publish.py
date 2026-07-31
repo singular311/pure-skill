@@ -15,6 +15,7 @@ PROJECT_DIR = Path(__file__).resolve().parent
 CATALOG = PROJECT_DIR / "website" / "data" / "catalog.js"
 STATE_FILE = PROJECT_DIR / ".publish-state.json"
 BUCKET = "manhwa-images"
+DEFAULT_SOURCE_DIR = Path(r"D:\укр_webp")
 
 
 def run(command: list[str]) -> None:
@@ -71,11 +72,16 @@ def commit_and_push() -> bool:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("source", type=Path, help="Наприклад: D:\\укр_webp")
+    parser.add_argument(
+        "source", nargs="?", type=Path, default=DEFAULT_SOURCE_DIR,
+        help=r"Папка з тайтлами (типово: D:\укр_webp)",
+    )
     parser.add_argument("--wrangler", default="wrangler", help="Шлях до wrangler.cmd")
     parser.add_argument("--node", default="node", help="Шлях до node.exe")
     parser.add_argument("--publish", action="store_true", help="Завантажити зміни в R2")
     args = parser.parse_args()
+    if not args.source.is_dir():
+        parser.error(f"Папка з тайтлами не знайдена: {args.source}")
 
     node_script = PROJECT_DIR / "scripts" / "build-catalog.mjs"
     run([args.node, str(node_script), str(args.source), str(CATALOG)])

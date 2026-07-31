@@ -1,5 +1,5 @@
 window.CATALOG_DATA = {
-  "generatedAt": "2026-07-30T23:40:42.651Z",
+  "generatedAt": "2026-07-31T23:14:14.221Z",
   "titles": [
     {
       "id": "absolyutna-vlada",
@@ -755,7 +755,11 @@ window.CATALOG_DATA = {
         },
         {
           "number": "21",
-          "pages": 10
+          "pages": 39
+        },
+        {
+          "number": "22",
+          "pages": 45
         },
         {
           "number": "23",
@@ -787,6 +791,10 @@ window.CATALOG_DATA = {
         },
         {
           "number": "30",
+          "pages": 37
+        },
+        {
+          "number": "31",
           "pages": 37
         },
         {
@@ -871,7 +879,7 @@ window.CATALOG_DATA = {
         }
       ],
       "latestChapter": "51",
-      "totalChapters": 49
+      "totalChapters": 51
     },
     {
       "id": "vyzhyvannya-nevylikovno-khvoroho-heniya",
@@ -1012,6 +1020,50 @@ window.CATALOG_DATA = {
       "localCoverPath": "Всупереч Занепаду/cover.webp",
       "chapters": [
         {
+          "number": "01",
+          "pages": 92
+        },
+        {
+          "number": "02",
+          "pages": 70
+        },
+        {
+          "number": "03",
+          "pages": 66
+        },
+        {
+          "number": "04",
+          "pages": 46
+        },
+        {
+          "number": "05",
+          "pages": 60
+        },
+        {
+          "number": "06",
+          "pages": 47
+        },
+        {
+          "number": "07",
+          "pages": 43
+        },
+        {
+          "number": "09",
+          "pages": 55
+        },
+        {
+          "number": "10",
+          "pages": 66
+        },
+        {
+          "number": "11",
+          "pages": 54
+        },
+        {
+          "number": "12",
+          "pages": 53
+        },
+        {
           "number": "13",
           "pages": 39
         },
@@ -1061,7 +1113,7 @@ window.CATALOG_DATA = {
         }
       ],
       "latestChapter": "24",
-      "totalChapters": 12
+      "totalChapters": 23
     },
     {
       "id": "henialnyi-pryzmatychnyi-mah",
@@ -1069,6 +1121,22 @@ window.CATALOG_DATA = {
       "coverPath": "henialnyi-pryzmatychnyi-mah/cover.webp",
       "localCoverPath": "Геніальний призматичний маг/cover.webp",
       "chapters": [
+        {
+          "number": "01",
+          "pages": 41
+        },
+        {
+          "number": "02",
+          "pages": 45
+        },
+        {
+          "number": "03",
+          "pages": 42
+        },
+        {
+          "number": "05",
+          "pages": 48
+        },
         {
           "number": "06",
           "pages": 42
@@ -1191,7 +1259,7 @@ window.CATALOG_DATA = {
         }
       ],
       "latestChapter": "35",
-      "totalChapters": 30
+      "totalChapters": 34
     },
     {
       "id": "yedynyi-nekromant",
@@ -1642,6 +1710,38 @@ window.CATALOG_DATA = {
       "localCoverPath": "Колорист/cover.webp",
       "chapters": [
         {
+          "number": "01",
+          "pages": 53
+        },
+        {
+          "number": "02",
+          "pages": 39
+        },
+        {
+          "number": "03",
+          "pages": 36
+        },
+        {
+          "number": "04",
+          "pages": 35
+        },
+        {
+          "number": "05",
+          "pages": 35
+        },
+        {
+          "number": "06",
+          "pages": 34
+        },
+        {
+          "number": "08",
+          "pages": 38
+        },
+        {
+          "number": "09",
+          "pages": 45
+        },
+        {
           "number": "10",
           "pages": 47
         },
@@ -1763,7 +1863,7 @@ window.CATALOG_DATA = {
         }
       ],
       "latestChapter": "39",
-      "totalChapters": 30
+      "totalChapters": 38
     },
     {
       "id": "lytsar-vohnyu",
@@ -1801,6 +1901,90 @@ window.CATALOG_DATA = {
       "coverPath": "neperevershenyi-demon-spysa/cover.webp",
       "localCoverPath": "Неперевершений Демон Списа/cover.webp",
       "chapters": [
+        {
+          "number": "01",
+          "pages": 50
+        },
+        {
+          "number": "02",
+          "pages": 55
+        },
+        {
+          "number": "03",
+          "pages": 59
+        },
+        {
+          "number": "04",
+          "pages": 56
+        },
+        {
+          "number": "05",
+          "pages": 42
+        },
+        {
+          "number": "06",
+          "pages": 39
+        },
+        {
+          "number": "07",
+          "pages": 42
+        },
+        {
+          "number": "08",
+          "pages": 34
+        },
+        {
+          "number": "09",
+          "pages": 37
+        },
+        {
+          "number": "10",
+          "pages": 44
+        },
+        {
+          "number": "11",
+          "pages": 36
+        },
+        {
+          "number": "12",
+          "pages": 41
+        },
+        {
+          "number": "13",
+          "pages": 39
+        },
+        {
+          "number": "14",
+          "pages": 36
+        },
+        {
+          "number": "15",
+          "pages": 38
+        },
+        {
+          "number": "16",
+          "pages": 31
+        },
+        {
+          "number": "17",
+          "pages": 39
+        },
+        {
+          "number": "18",
+          "pages": 33
+        },
+        {
+          "number": "19",
+          "pages": 32
+        },
+        {
+          "number": "20",
+          "pages": 40
+        },
+        {
+          "number": "21",
+          "pages": 40
+        },
         {
           "number": "22",
           "pages": 46
@@ -1923,7 +2107,7 @@ window.CATALOG_DATA = {
         }
       ],
       "latestChapter": "51",
-      "totalChapters": 30
+      "totalChapters": 51
     },
     {
       "id": "odnoho-dnya-ya-stav-drakonenyam",
@@ -2023,6 +2207,90 @@ window.CATALOG_DATA = {
       "coverPath": "povernennya-maha-z-netriv/cover.webp",
       "localCoverPath": "Повернення мага з нетрів/cover.webp",
       "chapters": [
+        {
+          "number": "01",
+          "pages": 62
+        },
+        {
+          "number": "02",
+          "pages": 47
+        },
+        {
+          "number": "03",
+          "pages": 53
+        },
+        {
+          "number": "04",
+          "pages": 55
+        },
+        {
+          "number": "05",
+          "pages": 45
+        },
+        {
+          "number": "06",
+          "pages": 40
+        },
+        {
+          "number": "07",
+          "pages": 36
+        },
+        {
+          "number": "08",
+          "pages": 44
+        },
+        {
+          "number": "09",
+          "pages": 48
+        },
+        {
+          "number": "10",
+          "pages": 47
+        },
+        {
+          "number": "11",
+          "pages": 40
+        },
+        {
+          "number": "12",
+          "pages": 38
+        },
+        {
+          "number": "13",
+          "pages": 42
+        },
+        {
+          "number": "14",
+          "pages": 43
+        },
+        {
+          "number": "15",
+          "pages": 48
+        },
+        {
+          "number": "16",
+          "pages": 46
+        },
+        {
+          "number": "17",
+          "pages": 43
+        },
+        {
+          "number": "18",
+          "pages": 48
+        },
+        {
+          "number": "19",
+          "pages": 41
+        },
+        {
+          "number": "20",
+          "pages": 41
+        },
+        {
+          "number": "21",
+          "pages": 42
+        },
         {
           "number": "22",
           "pages": 50
@@ -2125,7 +2393,7 @@ window.CATALOG_DATA = {
         }
       ],
       "latestChapter": "46",
-      "totalChapters": 25
+      "totalChapters": 46
     },
     {
       "id": "posibnyk-slabaka-z-pidkorennya-vezhi",
@@ -2133,6 +2401,62 @@ window.CATALOG_DATA = {
       "coverPath": "posibnyk-slabaka-z-pidkorennya-vezhi/cover.webp",
       "localCoverPath": "Посібник слабака з підкорення вежі/cover.webp",
       "chapters": [
+        {
+          "number": "03",
+          "pages": 45
+        },
+        {
+          "number": "04",
+          "pages": 48
+        },
+        {
+          "number": "05",
+          "pages": 50
+        },
+        {
+          "number": "06",
+          "pages": 46
+        },
+        {
+          "number": "07",
+          "pages": 43
+        },
+        {
+          "number": "08",
+          "pages": 48
+        },
+        {
+          "number": "09",
+          "pages": 44
+        },
+        {
+          "number": "10",
+          "pages": 42
+        },
+        {
+          "number": "11",
+          "pages": 43
+        },
+        {
+          "number": "12",
+          "pages": 44
+        },
+        {
+          "number": "13",
+          "pages": 44
+        },
+        {
+          "number": "14",
+          "pages": 43
+        },
+        {
+          "number": "16",
+          "pages": 45
+        },
+        {
+          "number": "17",
+          "pages": 45
+        },
         {
           "number": "18",
           "pages": 43
@@ -2223,7 +2547,7 @@ window.CATALOG_DATA = {
         }
       ],
       "latestChapter": "39",
-      "totalChapters": 22
+      "totalChapters": 36
     },
     {
       "id": "svit-pislya-kintsya",
@@ -2250,10 +2574,14 @@ window.CATALOG_DATA = {
         {
           "number": "125",
           "pages": 66
+        },
+        {
+          "number": "126",
+          "pages": 45
         }
       ],
-      "latestChapter": "125",
-      "totalChapters": 5
+      "latestChapter": "126",
+      "totalChapters": 6
     },
     {
       "id": "tilky-ya-mozhu-voskresaty",
@@ -2349,6 +2677,86 @@ window.CATALOG_DATA = {
       "coverPath": "yak-vyzhyty-yakshcho-ty-lord-vampiriv/cover.webp",
       "localCoverPath": "Як вижити, якщо ти лорд вампірів/cover.webp",
       "chapters": [
+        {
+          "number": "01",
+          "pages": 32
+        },
+        {
+          "number": "02",
+          "pages": 41
+        },
+        {
+          "number": "03",
+          "pages": 43
+        },
+        {
+          "number": "04",
+          "pages": 36
+        },
+        {
+          "number": "05",
+          "pages": 33
+        },
+        {
+          "number": "06",
+          "pages": 37
+        },
+        {
+          "number": "07",
+          "pages": 32
+        },
+        {
+          "number": "08",
+          "pages": 31
+        },
+        {
+          "number": "09",
+          "pages": 37
+        },
+        {
+          "number": "10",
+          "pages": 33
+        },
+        {
+          "number": "11",
+          "pages": 43
+        },
+        {
+          "number": "12",
+          "pages": 33
+        },
+        {
+          "number": "13",
+          "pages": 39
+        },
+        {
+          "number": "14",
+          "pages": 48
+        },
+        {
+          "number": "15",
+          "pages": 40
+        },
+        {
+          "number": "16",
+          "pages": 62
+        },
+        {
+          "number": "17",
+          "pages": 51
+        },
+        {
+          "number": "18",
+          "pages": 45
+        },
+        {
+          "number": "19",
+          "pages": 43
+        },
+        {
+          "number": "20",
+          "pages": 60
+        },
         {
           "number": "21",
           "pages": 43
@@ -2467,7 +2875,7 @@ window.CATALOG_DATA = {
         }
       ],
       "latestChapter": "49",
-      "totalChapters": 29
+      "totalChapters": 49
     },
     {
       "id": "yak-demonichnyi-imperator-stav-dvoretskym",
