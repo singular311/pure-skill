@@ -1,0 +1,12 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "pure-skill",
+  "pages_build_output_dir": "./website",
+  "compatibility_date": "2026-07-31",
+  "r2_buckets": [
+    {
+      "binding": "MANHWA_IMAGES",
+      "bucket_name": "manhwa-images"
+    }
+  ]
+}
