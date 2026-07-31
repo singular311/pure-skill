@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import shutil
 import subprocess
 from pathlib import Path
 
@@ -21,6 +22,22 @@ DEFAULT_SOURCE_DIR = Path(r"D:\укр_webp")
 def run(command: list[str]) -> None:
     print("+", " ".join(map(str, command)))
     subprocess.run(command, check=True, cwd=PROJECT_DIR)
+
+
+def resolve_executable(command: str, display_name: str) -> str:
+    """Resolve PowerShell/npm shims such as wrangler.cmd for subprocess."""
+    supplied = Path(command)
+    if supplied.is_file():
+        return str(supplied)
+    resolved = shutil.which(command)
+    if not resolved and not command.lower().endswith(".cmd"):
+        resolved = shutil.which(f"{command}.cmd")
+    if not resolved:
+        raise FileNotFoundError(
+            f"Не знайдено {display_name}: {command}. "
+            f"Передай повний шлях через --{display_name}."
+        )
+    return resolved
 
 
 def load_catalog() -> dict:
@@ -82,6 +99,8 @@ def main() -> None:
     args = parser.parse_args()
     if not args.source.is_dir():
         parser.error(f"Папка з тайтлами не знайдена: {args.source}")
+    if args.publish:
+        args.wrangler = resolve_executable(args.wrangler, "wrangler")
 
     node_script = PROJECT_DIR / "scripts" / "build-catalog.mjs"
     run([args.node, str(node_script), str(args.source), str(CATALOG)])
