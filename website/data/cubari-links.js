@@ -276,5 +276,33 @@ window.CUBARI_LINKS = {
       "75",
       "76"
     ]
+  },
+  "vsuperech-zanepadu": {
+    "link": "https://cubari.moe/read/gist/cmF3L3Npbmd1bGFyMzExL3B1cmUtc2tpbGwvbWFpbi93ZWJzaXRlL2N1YmFyaS92c3VwZXJlY2gtemFuZXBhZHUuanNvbg/",
+    "chapters": [
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "06",
+      "07",
+      "09",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24"
+    ]
   }
 };
