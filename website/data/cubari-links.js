@@ -252,5 +252,29 @@ window.CUBARI_LINKS = {
       "10",
       "11"
     ]
+  },
+  "vyzhyvannya-u-hri-za-varvara": {
+    "link": "https://cubari.moe/read/gist/cmF3L3Npbmd1bGFyMzExL3B1cmUtc2tpbGwvbWFpbi93ZWJzaXRlL2N1YmFyaS92eXpoeXZhbm55YS11LWhyaS16YS12YXJ2YXJhLmpzb24/",
+    "chapters": [
+      "58",
+      "59",
+      "60",
+      "61",
+      "62",
+      "63",
+      "64",
+      "65",
+      "66",
+      "67",
+      "68",
+      "69",
+      "70",
+      "71",
+      "72",
+      "73",
+      "74",
+      "75",
+      "76"
+    ]
   }
 };
