@@ -512,5 +512,16 @@ window.CUBARI_LINKS = {
       "39",
       "40"
     ]
+  },
+  "lytsar-vohnyu": {
+    "link": "https://cubari.moe/read/gist/cmF3L3Npbmd1bGFyMzExL3B1cmUtc2tpbGwvbWFpbi93ZWJzaXRlL2N1YmFyaS9seXRzYXItdm9obnl1Lmpzb24/",
+    "chapters": [
+      "98",
+      "99",
+      "100",
+      "101",
+      "102",
+      "103"
+    ]
   }
 };
