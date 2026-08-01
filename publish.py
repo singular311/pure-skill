@@ -7,9 +7,11 @@ to upload changed images. It never deletes files from R2.
 from __future__ import annotations
 
 import argparse
+import base64
 import json
 import shutil
 import subprocess
+import time
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
@@ -18,6 +20,12 @@ CATALOG = PROJECT_DIR / "website" / "data" / "catalog.js"
 STATE_FILE = PROJECT_DIR / ".publish-state.json"
 BUCKET = "manhwa-images"
 DEFAULT_SOURCE_DIR = Path(r"D:\укр_webp")
+
+PUBLIC_SITE = "https://pure-skill.pages.dev"
+GITHUB_REPO = "singular311/pure-skill"
+GITHUB_BRANCH = "main"
+CUBARI_DIR = PROJECT_DIR / "website" / "cubari"
+CUBARI_LINKS_FILE = PROJECT_DIR / "website" / "data" / "cubari-links.js"
 
 
 def run(command: list[str]) -> None:
@@ -85,15 +93,108 @@ def set_production_media_config() -> None:
     config.write_text(text, encoding="utf-8")
 
 
+def cubari_link(repo_path: str) -> str:
+    """Build a cubari.moe /read/gist/ link for a file hosted in this GitHub repo."""
+    raw = f"raw/{GITHUB_REPO}/{GITHUB_BRANCH}/{repo_path}"
+    encoded = base64.b64encode(raw.encode("utf-8")).decode("ascii")
+    encoded = encoded.replace("+", "-").replace("/", "_").rstrip("=")
+    return f"https://cubari.moe/read/gist/{encoded}/"
+
+
+def build_title_cubari_manifest(title: dict, source_dir: Path, confirmed_state: dict):
+    """Write (or remove) the cubari manifest for a SINGLE title, based only on
+    chapters whose every page is confirmed present in R2 (confirmed_state).
+    Returns the cubari-links.js entry for this title, or None if not ready."""
+    local_title = source_dir / title["localCoverPath"].split("/")[0]
+    chapters_payload: dict[str, dict] = {}
+    ready_chapters: list[str] = []
+
+    for chapter in title["chapters"]:
+        folder = local_title / chapter["number"]
+        pages = sorted(folder.glob("*.webp"))
+        keys = [
+            f"titles/{title['id']}/chapters/{chapter['number']}/{p.name}"
+            for p in pages
+        ]
+        if not pages or any(key not in confirmed_state for key in keys):
+            continue  # глава ще не повністю в R2
+
+        chapters_payload[str(chapter["number"])] = {
+            "title": "",
+            "volume": "",
+            "groups": {"Sub": [f"{PUBLIC_SITE}/media/{key}" for key in keys]},
+            "last_updated": str(int(time.time())),
+        }
+        ready_chapters.append(str(chapter["number"]))
+
+    CUBARI_DIR.mkdir(parents=True, exist_ok=True)
+    manifest_path = CUBARI_DIR / f"{title['id']}.json"
+
+    if not chapters_payload:
+        if manifest_path.exists():
+            manifest_path.unlink()
+        return None
+
+    manifest = {
+        "title": title["title"],
+        "description": "",
+        "artist": "",
+        "author": "",
+        "cover": f"{PUBLIC_SITE}/media/titles/{title['id']}/cover.webp",
+        "chapters": chapters_payload,
+    }
+    manifest_path.write_text(
+        json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+    return {
+        "link": cubari_link(f"website/cubari/{title['id']}.json"),
+        "chapters": ready_chapters,
+    }
+
+
+def load_cubari_links() -> dict:
+    if not CUBARI_LINKS_FILE.exists():
+        return {}
+    prefix = "window.CUBARI_LINKS = "
+    text = CUBARI_LINKS_FILE.read_text(encoding="utf-8").strip()
+    if not text.startswith(prefix) or not text.endswith(";"):
+        return {}
+    return json.loads(text[len(prefix):-1])
+
+
+def save_cubari_links(links: dict) -> None:
+    CUBARI_LINKS_FILE.parent.mkdir(parents=True, exist_ok=True)
+    CUBARI_LINKS_FILE.write_text(
+        "window.CUBARI_LINKS = " + json.dumps(links, ensure_ascii=False, indent=2) + ";\n",
+        encoding="utf-8",
+    )
+
+
+def refresh_title_cubari_link(title: dict, source_dir: Path, confirmed_state: dict) -> None:
+    """Update just this title's entry in cubari-links.js, leaving the rest untouched."""
+    links = load_cubari_links()
+    entry = build_title_cubari_manifest(title, source_dir, confirmed_state)
+    if entry:
+        links[title["id"]] = entry
+    else:
+        links.pop(title["id"], None)
+    save_cubari_links(links)
+
+
 def commit_and_push() -> bool:
     """Return True only after a successful commit and push to GitHub."""
     run(["git", "rev-parse", "--is-inside-work-tree"])
-    run(["git", "add", "website/data/catalog.js", "website/data/config.js"])
+    run([
+        "git", "add",
+        "website/data/catalog.js",
+        "website/data/config.js",
+        "website/data/cubari-links.js",
+        "website/cubari",
+    ])
     staged = subprocess.run(
         ["git", "diff", "--cached", "--quiet"], cwd=PROJECT_DIR, check=False
     )
     if staged.returncode == 0:
-        print("Каталог не змінився — Git-коміт і деплой не потрібні.")
         return False
     run(["git", "commit", "-m", "Publish updated manga catalog"])
     run(["git", "push"])
@@ -110,10 +211,10 @@ def main() -> None:
     parser.add_argument("--node", default="node", help="Шлях до node.exe")
     parser.add_argument("--publish", action="store_true", help="Завантажити зміни в R2")
     parser.add_argument(
-    "--rebuild-state",
-    action="store_true",
-    help="Створити .publish-state.json без завантаження в R2",
-)
+        "--rebuild-state",
+        action="store_true",
+        help="Створити .publish-state.json без завантаження в R2",
+    )
     args = parser.parse_args()
     if not args.source.is_dir():
         parser.error(f"Папка з тайтлами не знайдена: {args.source}")
@@ -125,7 +226,8 @@ def main() -> None:
     catalog = load_catalog()
     old_state = json.loads(STATE_FILE.read_text(encoding="utf-8")) if STATE_FILE.exists() else {}
     new_state: dict[str, str] = {}
-    changed: list[tuple[Path, str]] = []
+    changed_by_title: dict[str, list[tuple[Path, str]]] = {}
+    total_changed = 0
 
     for source_file, key in iter_media(catalog, args.source):
         if not source_file.is_file():
@@ -133,14 +235,15 @@ def main() -> None:
         signature = file_signature(source_file)
         new_state[key] = signature
         if old_state.get(key) != signature:
-            changed.append((source_file, key))
+            title_id = key.split("/", 2)[1]
+            changed_by_title.setdefault(title_id, []).append((source_file, key))
+            total_changed += 1
 
-    print(f"Тайтлів: {len(catalog['titles'])}; змінених або нових файлів: {len(changed)}")
+    print(f"Тайтлів: {len(catalog['titles'])}; змінених або нових файлів: {total_changed}")
 
     if args.rebuild_state:
         STATE_FILE.write_text(
-            json.dumps(new_state, ensure_ascii=False, indent=2),
-            encoding="utf-8",
+            json.dumps(new_state, ensure_ascii=False, indent=2), encoding="utf-8"
         )
         print(f"Створено .publish-state.json ({len(new_state)} файлів)")
         return
@@ -149,35 +252,43 @@ def main() -> None:
         print("Перевірка завершена. Для завантаження додай --publish.")
         return
 
-    with ThreadPoolExecutor(max_workers=2) as pool:
-        for key, signature in pool.map(
-            upload_file,
-            [
-                (source_file, key, args.wrangler, new_state[key])
-                for source_file, key in changed
-            ],
-        ):
-            old_state[key] = signature
-            STATE_FILE.write_text(
-                json.dumps(old_state, ensure_ascii=False, indent=2),
-                encoding="utf-8",
-            )
-
     set_production_media_config()
-    pushed = commit_and_push()
+    run(["git", "add", "website/data/config.js"])
 
-    set_production_media_config()
-    pushed = commit_and_push()
+    any_pushed = False
+    for title in catalog["titles"]:
+        title_changed = changed_by_title.get(title["id"], [])
 
-    # Write the state only after every required local/Git step has succeeded.
-    # If `git push` fails, the next run uploads the changed objects again rather
-    # than incorrectly treating the release as complete.
+        if title_changed:
+            print(f"→ {title['id']}: завантажую {len(title_changed)} файл(ів)...")
+            with ThreadPoolExecutor(max_workers=2) as pool:
+                for key, signature in pool.map(
+                    upload_file,
+                    [
+                        (source_file, key, args.wrangler, new_state[key])
+                        for source_file, key in title_changed
+                    ],
+                ):
+                    old_state[key] = signature
+                    STATE_FILE.write_text(
+                        json.dumps(old_state, ensure_ascii=False, indent=2),
+                        encoding="utf-8",
+                    )
+
+        # Оновлюємо cubari-посилання для ЦЬОГО тайтулу одразу — навіть якщо
+        # для нього зараз не було нових файлів (могла довантажитись
+        # остання сторінка останньої глави на попередньому кроці).
+        refresh_title_cubari_link(title, args.source, old_state)
+        if commit_and_push():
+            any_pushed = True
+            print(f"  ✓ {title['id']}: запушено, деплой запущено")
+
     STATE_FILE.write_text(json.dumps(new_state, ensure_ascii=False, indent=2), encoding="utf-8")
-    if pushed:
-        print("R2 оновлено, Git push успішний. GitHub Actions запустив Pages-деплой.")
-        print("Успіх Pages підтверджується статусом GitHub Actions; publish.py не оголошує його завершеним передчасно.")
+    if any_pushed:
+        print("Готово. R2 оновлено, зміни пушились по кожному тайтулу окремо.")
+        print("Перевіряйте статус деплоїв у GitHub Actions.")
     else:
-        print("R2 оновлено. Каталог не змінився, тому Pages-деплой не потрібен.")
+        print("R2 оновлено. Жодних нових git-змін не було.")
 
 
 if __name__ == "__main__":
