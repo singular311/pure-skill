@@ -1,5 +1,7 @@
 export async function onRequestGet(context) {
-  const key = context.params.key;
+  const key = Array.isArray(context.params.key)
+    ? context.params.key.join("/")
+    : context.params.key;
 
   const object = await context.env.MANHWA_IMAGES.get(key);
 
