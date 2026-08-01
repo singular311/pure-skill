@@ -235,7 +235,8 @@ window.CUBARI_LINKS = {
       "48",
       "49",
       "50",
-      "51"
+      "51",
+      "52"
     ]
   },
   "vyzhyvannya-nevylikovno-khvoroho-heniya": {
