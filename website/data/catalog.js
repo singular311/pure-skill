@@ -1,5 +1,5 @@
 window.CATALOG_DATA = {
-  "generatedAt": "2026-08-01T20:26:18.606Z",
+  "generatedAt": "2026-08-01T20:49:31.450Z",
   "titles": [
     {
       "id": "absolyutna-vlada",
@@ -374,10 +374,14 @@ window.CATALOG_DATA = {
         {
           "number": "32",
           "pages": 47
+        },
+        {
+          "number": "33",
+          "pages": 35
         }
       ],
-      "latestChapter": "32",
-      "totalChapters": 32
+      "latestChapter": "33",
+      "totalChapters": 33
     },
     {
       "id": "bastard-klanu-mecha-shlyakh-do-vyzhyvannya",
@@ -888,10 +892,14 @@ window.CATALOG_DATA = {
         {
           "number": "51",
           "pages": 40
+        },
+        {
+          "number": "52",
+          "pages": 28
         }
       ],
-      "latestChapter": "51",
-      "totalChapters": 51
+      "latestChapter": "52",
+      "totalChapters": 52
     },
     {
       "id": "vyzhyvannya-nevylikovno-khvoroho-heniya",
@@ -1900,10 +1908,14 @@ window.CATALOG_DATA = {
         {
           "number": "39",
           "pages": 67
+        },
+        {
+          "number": "40",
+          "pages": 61
         }
       ],
-      "latestChapter": "39",
-      "totalChapters": 39
+      "latestChapter": "40",
+      "totalChapters": 40
     },
     {
       "id": "lytsar-vohnyu",
@@ -2148,10 +2160,14 @@ window.CATALOG_DATA = {
         {
           "number": "51",
           "pages": 39
+        },
+        {
+          "number": "52",
+          "pages": 38
         }
       ],
-      "latestChapter": "51",
-      "totalChapters": 51
+      "latestChapter": "52",
+      "totalChapters": 52
     },
     {
       "id": "odnoho-dnya-ya-stav-drakonenyam",
@@ -2672,10 +2688,14 @@ window.CATALOG_DATA = {
         {
           "number": "10",
           "pages": 37
+        },
+        {
+          "number": "11",
+          "pages": 39
         }
       ],
-      "latestChapter": "10",
-      "totalChapters": 10
+      "latestChapter": "11",
+      "totalChapters": 11
     },
     {
       "id": "ya-yedynyi-fermer-v-pidzemelli",
