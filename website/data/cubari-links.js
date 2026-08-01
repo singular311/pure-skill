@@ -441,5 +441,31 @@ window.CUBARI_LINKS = {
       "82",
       "83"
     ]
+  },
+  "istoriya-vyzhyvannya-korolya-mecha-u-inshomu-sviti": {
+    "link": "https://cubari.moe/read/gist/cmF3L3Npbmd1bGFyMzExL3B1cmUtc2tpbGwvbWFpbi93ZWJzaXRlL2N1YmFyaS9pc3Rvcml5YS12eXpoeXZhbm55YS1rb3JvbHlhLW1lY2hhLXUtaW5zaG9tdS1zdml0aS5qc29u/",
+    "chapters": [
+      "229",
+      "230",
+      "231",
+      "232",
+      "233",
+      "234",
+      "235",
+      "236",
+      "237",
+      "238",
+      "239",
+      "240",
+      "241",
+      "242",
+      "243",
+      "244",
+      "245",
+      "246",
+      "247",
+      "248",
+      "249"
+    ]
   }
 };
