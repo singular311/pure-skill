@@ -10,6 +10,7 @@ import argparse
 import json
 import shutil
 import subprocess
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 PROJECT_DIR = Path(__file__).resolve().parent
@@ -22,6 +23,19 @@ DEFAULT_SOURCE_DIR = Path(r"D:\укр_webp")
 def run(command: list[str]) -> None:
     print("+", " ".join(map(str, command)))
     subprocess.run(command, check=True, cwd=PROJECT_DIR)
+
+def upload_file(args):
+    source_file, key, wrangler, signature = args
+
+    run([
+        wrangler, "r2", "object", "put", f"{BUCKET}/{key}",
+        "--remote",
+        "--file", str(source_file),
+        "--content-type", "image/webp",
+        "--cache-control", "public, max-age=31536000, immutable",
+    ])
+
+    return key, signature
 
 
 def resolve_executable(command: str, display_name: str) -> str:
@@ -63,7 +77,6 @@ def iter_media(catalog: dict, source_dir: Path):
             for page in sorted(folder.glob("*.webp")):
                 yield page, f"titles/{title['id']}/chapters/{chapter['number']}/{page.name}"
 
-
 def set_production_media_config() -> None:
     config = PROJECT_DIR / "website" / "data" / "config.js"
     text = config.read_text(encoding="utf-8")
@@ -96,6 +109,11 @@ def main() -> None:
     parser.add_argument("--wrangler", default="wrangler", help="Шлях до wrangler.cmd")
     parser.add_argument("--node", default="node", help="Шлях до node.exe")
     parser.add_argument("--publish", action="store_true", help="Завантажити зміни в R2")
+    parser.add_argument(
+    "--rebuild-state",
+    action="store_true",
+    help="Створити .publish-state.json без завантаження в R2",
+)
     args = parser.parse_args()
     if not args.source.is_dir():
         parser.error(f"Папка з тайтлами не знайдена: {args.source}")
@@ -118,16 +136,36 @@ def main() -> None:
             changed.append((source_file, key))
 
     print(f"Тайтлів: {len(catalog['titles'])}; змінених або нових файлів: {len(changed)}")
+
+    if args.rebuild_state:
+        STATE_FILE.write_text(
+            json.dumps(new_state, ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
+        print(f"Створено .publish-state.json ({len(new_state)} файлів)")
+        return
+
     if not args.publish:
         print("Перевірка завершена. Для завантаження додай --publish.")
         return
 
-    for source_file, key in changed:
-        run([
-            args.wrangler, "r2", "object", "put", f"{BUCKET}/{key}",
-            "--file", str(source_file), "--content-type", "image/webp",
-            "--cache-control", "public, max-age=31536000, immutable",
-        ])
+    with ThreadPoolExecutor(max_workers=2) as pool:
+        for key, signature in pool.map(
+            upload_file,
+            [
+                (source_file, key, args.wrangler, new_state[key])
+                for source_file, key in changed
+            ],
+        ):
+            old_state[key] = signature
+            STATE_FILE.write_text(
+                json.dumps(old_state, ensure_ascii=False, indent=2),
+                encoding="utf-8",
+            )
+
+    set_production_media_config()
+    pushed = commit_and_push()
+
     set_production_media_config()
     pushed = commit_and_push()
 

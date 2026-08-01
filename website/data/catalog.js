@@ -1,5 +1,5 @@
 window.CATALOG_DATA = {
-  "generatedAt": "2026-08-01T05:21:46.622Z",
+  "generatedAt": "2026-08-01T13:22:45.476Z",
   "titles": [
     {
       "id": "absolyutna-vlada",
@@ -74,10 +74,14 @@ window.CATALOG_DATA = {
         {
           "number": "62",
           "pages": 48
+        },
+        {
+          "number": "63",
+          "pages": 44
         }
       ],
-      "latestChapter": "62",
-      "totalChapters": 17
+      "latestChapter": "63",
+      "totalChapters": 18
     },
     {
       "id": "absolyutnyi-nekromant",
@@ -228,10 +232,14 @@ window.CATALOG_DATA = {
         {
           "number": "57",
           "pages": 45
+        },
+        {
+          "number": "58",
+          "pages": 45
         }
       ],
-      "latestChapter": "57",
-      "totalChapters": 36
+      "latestChapter": "58",
+      "totalChapters": 37
     },
     {
       "id": "aster-buntar-domu-tyraniv",
@@ -528,10 +536,14 @@ window.CATALOG_DATA = {
         {
           "number": "60",
           "pages": 54
+        },
+        {
+          "number": "61",
+          "pages": 56
         }
       ],
-      "latestChapter": "60",
-      "totalChapters": 38
+      "latestChapter": "61",
+      "totalChapters": 39
     },
     {
       "id": "bezsmertnyi-khlopchyk",
@@ -926,10 +938,14 @@ window.CATALOG_DATA = {
         {
           "number": "10",
           "pages": 58
+        },
+        {
+          "number": "11",
+          "pages": 57
         }
       ],
-      "latestChapter": "10",
-      "totalChapters": 10
+      "latestChapter": "11",
+      "totalChapters": 11
     },
     {
       "id": "vyzhyvannya-u-hri-za-varvara",
@@ -1008,10 +1024,14 @@ window.CATALOG_DATA = {
         {
           "number": "75",
           "pages": 48
+        },
+        {
+          "number": "76",
+          "pages": 50
         }
       ],
-      "latestChapter": "75",
-      "totalChapters": 18
+      "latestChapter": "76",
+      "totalChapters": 19
     },
     {
       "id": "vsuperech-zanepadu",
@@ -1132,6 +1152,10 @@ window.CATALOG_DATA = {
         {
           "number": "03",
           "pages": 42
+        },
+        {
+          "number": "04",
+          "pages": 45
         },
         {
           "number": "05",
@@ -1256,10 +1280,14 @@ window.CATALOG_DATA = {
         {
           "number": "35",
           "pages": 32
+        },
+        {
+          "number": "36",
+          "pages": 27
         }
       ],
-      "latestChapter": "35",
-      "totalChapters": 34
+      "latestChapter": "36",
+      "totalChapters": 36
     },
     {
       "id": "yedynyi-nekromant",
@@ -1486,10 +1514,14 @@ window.CATALOG_DATA = {
         {
           "number": "55",
           "pages": 37
+        },
+        {
+          "number": "56",
+          "pages": 37
         }
       ],
-      "latestChapter": "55",
-      "totalChapters": 55
+      "latestChapter": "56",
+      "totalChapters": 56
     },
     {
       "id": "zhnets-dreifuyuchoho-misyatsya",
@@ -1604,10 +1636,14 @@ window.CATALOG_DATA = {
         {
           "number": "82",
           "pages": 38
+        },
+        {
+          "number": "83",
+          "pages": 42
         }
       ],
-      "latestChapter": "82",
-      "totalChapters": 27
+      "latestChapter": "83",
+      "totalChapters": 28
     },
     {
       "id": "istoriya-vyzhyvannya-korolya-mecha-u-inshomu-sviti",
@@ -1731,6 +1767,10 @@ window.CATALOG_DATA = {
         },
         {
           "number": "06",
+          "pages": 34
+        },
+        {
+          "number": "07",
           "pages": 34
         },
         {
@@ -1863,7 +1903,7 @@ window.CATALOG_DATA = {
         }
       ],
       "latestChapter": "39",
-      "totalChapters": 38
+      "totalChapters": 39
     },
     {
       "id": "lytsar-vohnyu",
@@ -1890,10 +1930,14 @@ window.CATALOG_DATA = {
         {
           "number": "102",
           "pages": 24
+        },
+        {
+          "number": "103",
+          "pages": 25
         }
       ],
-      "latestChapter": "102",
-      "totalChapters": 5
+      "latestChapter": "103",
+      "totalChapters": 6
     },
     {
       "id": "neperevershenyi-demon-spysa",
