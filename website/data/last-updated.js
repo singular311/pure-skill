@@ -4,5 +4,6 @@ window.LAST_UPDATED = {
   "istoriya-vyzhyvannya-korolya-mecha-u-inshomu-sviti": 1785622336,
   "koloryst": 1785624892,
   "lytsar-vohnyu": 1785625111,
-  "vsuperech-zanepadu": 1785627943
+  "vsuperech-zanepadu": 1785627943,
+  "neperevershenyi-demon-spysa": 1785628773
 };
