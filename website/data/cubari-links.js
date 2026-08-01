@@ -236,5 +236,21 @@ window.CUBARI_LINKS = {
       "50",
       "51"
     ]
+  },
+  "vyzhyvannya-nevylikovno-khvoroho-heniya": {
+    "link": "https://cubari.moe/read/gist/cmF3L3Npbmd1bGFyMzExL3B1cmUtc2tpbGwvbWFpbi93ZWJzaXRlL2N1YmFyaS92eXpoeXZhbm55YS1uZXZ5bGlrb3Zuby1raHZvcm9oby1oZW5peWEuanNvbg/",
+    "chapters": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ]
   }
 };
