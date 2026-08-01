@@ -26,6 +26,7 @@ GITHUB_REPO = "singular311/pure-skill"
 GITHUB_BRANCH = "main"
 CUBARI_DIR = PROJECT_DIR / "website" / "cubari"
 CUBARI_LINKS_FILE = PROJECT_DIR / "website" / "data" / "cubari-links.js"
+LAST_UPDATED_FILE = PROJECT_DIR / "website" / "data" / "last-updated.js"
 
 
 def run(command: list[str]) -> None:
@@ -152,45 +153,51 @@ def build_title_cubari_manifest(title: dict, source_dir: Path, confirmed_state: 
     }
 
 
-def load_cubari_links() -> dict:
-    if not CUBARI_LINKS_FILE.exists():
+def load_json_module(path: Path, var_name: str) -> dict:
+    if not path.exists():
         return {}
-    prefix = "window.CUBARI_LINKS = "
-    text = CUBARI_LINKS_FILE.read_text(encoding="utf-8").strip()
+    prefix = f"window.{var_name} = "
+    text = path.read_text(encoding="utf-8").strip()
     if not text.startswith(prefix) or not text.endswith(";"):
         return {}
     return json.loads(text[len(prefix):-1])
 
 
-def save_cubari_links(links: dict) -> None:
-    CUBARI_LINKS_FILE.parent.mkdir(parents=True, exist_ok=True)
-    CUBARI_LINKS_FILE.write_text(
-        "window.CUBARI_LINKS = " + json.dumps(links, ensure_ascii=False, indent=2) + ";\n",
+def save_json_module(path: Path, var_name: str, data: dict) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(
+        f"window.{var_name} = " + json.dumps(data, ensure_ascii=False, indent=2) + ";\n",
         encoding="utf-8",
     )
 
 
 def refresh_title_cubari_link(title: dict, source_dir: Path, confirmed_state: dict) -> None:
     """Update just this title's entry in cubari-links.js, leaving the rest untouched."""
-    links = load_cubari_links()
+    links = load_json_module(CUBARI_LINKS_FILE, "CUBARI_LINKS")
     entry = build_title_cubari_manifest(title, source_dir, confirmed_state)
     if entry:
         links[title["id"]] = entry
     else:
         links.pop(title["id"], None)
-    save_cubari_links(links)
+    save_json_module(CUBARI_LINKS_FILE, "CUBARI_LINKS", links)
+
+
+def mark_title_updated_now(title_id: str) -> None:
+    """Record 'now' as the last-updated timestamp for a title, so the
+    homepage can sort titles by most recently updated first."""
+    updates = load_json_module(LAST_UPDATED_FILE, "LAST_UPDATED")
+    updates[title_id] = int(time.time())
+    save_json_module(LAST_UPDATED_FILE, "LAST_UPDATED", updates)
 
 
 def commit_and_push() -> bool:
-    """Return True only after a successful commit and push to GitHub."""
+    """Return True only after a successful commit and push to GitHub.
+
+    Stages the whole website/ directory (not a hand-picked file list) so any
+    frontend edit — HTML, CSS, JS, data — is always included automatically.
+    """
     run(["git", "rev-parse", "--is-inside-work-tree"])
-    run([
-        "git", "add",
-        "website/data/catalog.js",
-        "website/data/config.js",
-        "website/data/cubari-links.js",
-        "website/cubari",
-    ])
+    run(["git", "add", "website"])
     staged = subprocess.run(
         ["git", "diff", "--cached", "--quiet"], cwd=PROJECT_DIR, check=False
     )
@@ -253,7 +260,6 @@ def main() -> None:
         return
 
     set_production_media_config()
-    run(["git", "add", "website/data/config.js"])
 
     any_pushed = False
     for title in catalog["titles"]:
@@ -274,6 +280,7 @@ def main() -> None:
                         json.dumps(old_state, ensure_ascii=False, indent=2),
                         encoding="utf-8",
                     )
+            mark_title_updated_now(title["id"])
 
         # Оновлюємо cubari-посилання для ЦЬОГО тайтулу одразу — навіть якщо
         # для нього зараз не було нових файлів (могла довантажитись

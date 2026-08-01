@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#111318">
-    <title>Моя манхва</title>
+    <title>Чистий скіл</title>
     <link rel="stylesheet" href="assets/style.css">
   </head>
   <body>
-    <header class="site-header"><a class="brand" href="/">Моя манхва</a><label class="search"><span>⌕</span><input id="search" type="search" placeholder="Пошук тайтлу" autocomplete="off"></label></header>
+    <header class="site-header"><a class="brand" href="/">Чистий скіл</a><label class="search"><span>⌕</span><input id="search" type="search" placeholder="Пошук тайтлу" autocomplete="off"></label></header>
     <main>
       <section class="intro"><p>Українські переклади</p><h1>Каталог манхви</h1><span id="summary"></span></section>
       <section id="catalog" class="catalog" aria-live="polite"></section>
       <p id="empty" class="empty" hidden>Нічого не знайдено.</p>
     </main>
-    <template id="card-template"><article class="card"><img class="cover" alt=""><div class="details"><h2></h2><p class="chapter"></p><a class="read" href="#">Дивитися глави <span>→</span></a></div></article></template>
-    <script src="data/config.js"></script><script src="data/catalog.js"></script><script src="assets/app.js"></script>
+    <template id="card-template"><a class="card" href="#"><img class="cover" alt=""><div class="details"><h2></h2><p class="chapter"></p></div></a></template>
+    <script src="data/config.js"></script><script src="data/catalog.js"></script><script src="data/last-updated.js"></script><script src="assets/app.js"></script>
   </body>
 </html>
