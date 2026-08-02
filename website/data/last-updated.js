@@ -5,5 +5,6 @@ window.LAST_UPDATED = {
   "koloryst": 1785624892,
   "lytsar-vohnyu": 1785625111,
   "vsuperech-zanepadu": 1785627943,
-  "neperevershenyi-demon-spysa": 1785628773
+  "neperevershenyi-demon-spysa": 1785628773,
+  "odnoho-dnya-ya-stav-drakonenyam": 1785629598
 };

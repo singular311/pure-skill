@@ -581,5 +581,17 @@ window.CUBARI_LINKS = {
       "51",
       "52"
     ]
+  },
+  "odnoho-dnya-ya-stav-drakonenyam": {
+    "link": "https://cubari.moe/read/gist/cmF3L3Npbmd1bGFyMzExL3B1cmUtc2tpbGwvbWFpbi93ZWJzaXRlL2N1YmFyaS9vZG5vaG8tZG55YS15YS1zdGF2LWRyYWtvbmVueWFtLmpzb24/",
+    "chapters": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ]
   }
 };
