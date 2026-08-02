@@ -17,7 +17,7 @@
   body.ui-hidden .progress-track{opacity:0;pointer-events:none}
   .reader-bar a.back{color:var(--text);text-decoration:none;font-size:1.3rem;line-height:1}
   .reader-bar .meta{min-width:0;flex:1}
-  .reader-bar .meta .t{font-weight:700;font-size:.95rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .reader-bar .meta .t{font-weight:700;font-size:.95rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:inherit;text-decoration:none;display:block}
   .reader-bar .meta .c{color:var(--muted);font-size:.8rem;text-decoration:none;display:block}
   .reader-bar.bottom button{background:none;border:0;color:var(--text);font-size:1.2rem;padding:8px 14px;cursor:pointer;border-radius:8px}
   .reader-bar.bottom button:disabled{color:#4a5160;cursor:default}
@@ -38,7 +38,7 @@
 
 <header class="reader-bar top" hidden>
   <a class="back" href="#">←</a>
-  <div class="meta"><div class="t"></div><a class="c" href="#"></a></div>
+  <div class="meta"><a class="t" href="#"></a><a class="c" href="#"></a></div>
 </header>
 
 <div class="progress-track" hidden>
@@ -106,6 +106,7 @@
   progressTrack.hidden = false;
 
   topBar.querySelector(".back").href = backLink;
+  topBar.querySelector(".t").href = backLink;
   topBar.querySelector(".t").textContent = title.title;
   topBar.querySelector(".c").href = backLink;
   topBar.querySelector(".c").textContent = `Глава ${chapterNum}`;
