@@ -593,5 +593,21 @@ window.CUBARI_LINKS = {
       "6",
       "7"
     ]
+  },
+  "pane-pozhyrachu-bud-laska-povodtesya-yak-finalnyi-bos": {
+    "link": "https://cubari.moe/read/gist/cmF3L3Npbmd1bGFyMzExL3B1cmUtc2tpbGwvbWFpbi93ZWJzaXRlL2N1YmFyaS9wYW5lLXBvemh5cmFjaHUtYnVkLWxhc2thLXBvdm9kdGVzeWEteWFrLWZpbmFsbnlpLWJvcy5qc29u/",
+    "chapters": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ]
   }
 };
