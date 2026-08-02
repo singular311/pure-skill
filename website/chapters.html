@@ -6,7 +6,7 @@ document.querySelector('#title').textContent = item?.title ?? 'Тайтл не �
 document.querySelector('#chapters').innerHTML = item ? item.chapters.slice().reverse().map(c => {
   const ready = cubari?.chapters.includes(String(c.number));
   const action = ready
-    ? `<a class="read" href="${cubari.link}${c.number}/">Читати</a>`
+    ? `<a class="read" href="reader.html?title=${encodeURIComponent(id)}&chapter=${encodeURIComponent(c.number)}">Читати</a>`
     : `<button disabled title="Буде активна після завантаження в R2">Читати</button>`;
   return `<div class="chapter-row"><span>Глава ${c.number}</span>${action}</div>`;
 }).join('') : '';
