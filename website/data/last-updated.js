@@ -10,5 +10,6 @@ window.LAST_UPDATED = {
   "pane-pozhyrachu-bud-laska-povodtesya-yak-finalnyi-bos": 1785645562,
   "povernennya-maha-z-netriv": 1785648286,
   "posibnyk-slabaka-z-pidkorennya-vezhi": 1785651117,
-  "svit-pislya-kintsya": 1785651552
+  "svit-pislya-kintsya": 1785651552,
+  "tilky-ya-mozhu-voskresaty": 1785652245
 };

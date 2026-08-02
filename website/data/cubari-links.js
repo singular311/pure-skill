@@ -712,5 +712,21 @@ window.CUBARI_LINKS = {
       "125",
       "126"
     ]
+  },
+  "tilky-ya-mozhu-voskresaty": {
+    "link": "https://cubari.moe/read/gist/cmF3L3Npbmd1bGFyMzExL3B1cmUtc2tpbGwvbWFpbi93ZWJzaXRlL2N1YmFyaS90aWxreS15YS1tb3podS12b3NrcmVzYXR5Lmpzb24/",
+    "chapters": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ]
   }
 };
