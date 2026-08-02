@@ -9,6 +9,7 @@ from __future__ import annotations
 import argparse
 import base64
 import json
+import os
 import shutil
 import subprocess
 import time
@@ -110,6 +111,20 @@ def build_title_cubari_manifest(title: dict, source_dir: Path, confirmed_state: 
     chapters_payload: dict[str, dict] = {}
     ready_chapters: list[str] = []
 
+    CUBARI_DIR.mkdir(parents=True, exist_ok=True)
+    manifest_path = CUBARI_DIR / f"{title['id']}.json"
+
+    # Завантажуємо попередню версію маніфесту, щоб не змінювати last_updated
+    # для розділів, які й так уже були готові й не змінювались — інакше
+    # git бачив би "зміну" (лише через таймстамп) і комітив би тайтул
+    # щоразу, навіть коли реально нічого нового не завантажилось.
+    previous_chapters: dict = {}
+    if manifest_path.exists():
+        try:
+            previous_chapters = json.loads(manifest_path.read_text(encoding="utf-8")).get("chapters", {})
+        except (json.JSONDecodeError, OSError):
+            previous_chapters = {}
+
     for chapter in title["chapters"]:
         folder = local_title / chapter["number"]
         pages = sorted(folder.glob("*.webp"))
@@ -120,16 +135,18 @@ def build_title_cubari_manifest(title: dict, source_dir: Path, confirmed_state: 
         if not pages or any(key not in confirmed_state for key in keys):
             continue  # глава ще не повністю в R2
 
+        urls = [f"{PUBLIC_SITE}/media/{key}" for key in keys]
+        prev = previous_chapters.get(str(chapter["number"]))
+        unchanged = prev is not None and prev.get("groups", {}).get("Sub") == urls
+        last_updated = prev["last_updated"] if unchanged else str(int(time.time()))
+
         chapters_payload[str(chapter["number"])] = {
             "title": "",
             "volume": "",
-            "groups": {"Sub": [f"{PUBLIC_SITE}/media/{key}" for key in keys]},
-            "last_updated": str(int(time.time())),
+            "groups": {"Sub": urls},
+            "last_updated": last_updated,
         }
         ready_chapters.append(str(chapter["number"]))
-
-    CUBARI_DIR.mkdir(parents=True, exist_ok=True)
-    manifest_path = CUBARI_DIR / f"{title['id']}.json"
 
     if not chapters_payload:
         if manifest_path.exists():
@@ -190,6 +207,87 @@ def mark_title_updated_now(title_id: str) -> None:
     save_json_module(LAST_UPDATED_FILE, "LAST_UPDATED", updates)
 
 
+def get_r2_client():
+    """R2 has no 'list objects' command in wrangler, so we talk to it via its
+    S3-compatible API instead. Requires an R2 API token (separate from the
+    normal `wrangler login`) — see README notes / chat instructions."""
+    try:
+        import boto3
+    except ImportError:
+        raise SystemExit(
+            "Потрібна бібліотека boto3: встанови командою `pip install boto3`.\n"
+            "Також мають бути задані змінні середовища R2_ACCOUNT_ID, "
+            "R2_ACCESS_KEY_ID, R2_SECRET_ACCESS_KEY (Cloudflare Dashboard → R2 → "
+            "Manage R2 API Tokens)."
+        )
+
+    account_id = os.environ.get("R2_ACCOUNT_ID")
+    access_key = os.environ.get("R2_ACCESS_KEY_ID")
+    secret_key = os.environ.get("R2_SECRET_ACCESS_KEY")
+    if not all([account_id, access_key, secret_key]):
+        raise SystemExit(
+            "Не задані змінні середовища R2_ACCOUNT_ID / R2_ACCESS_KEY_ID / "
+            "R2_SECRET_ACCESS_KEY. Задай їх (наприклад через `setx` у Windows) "
+            "і відкрий нове вікно терміналу."
+        )
+
+    return boto3.client(
+        "s3",
+        endpoint_url=f"https://{account_id}.r2.cloudflarestorage.com",
+        aws_access_key_id=access_key,
+        aws_secret_access_key=secret_key,
+        region_name="auto",
+    )
+
+
+def list_all_r2_keys(client) -> dict[str, int]:
+    """Return {key: size_in_bytes} for every object currently in the bucket."""
+    keys: dict[str, int] = {}
+    paginator = client.get_paginator("list_objects_v2")
+    for page in paginator.paginate(Bucket=BUCKET):
+        for obj in page.get("Contents", []):
+            keys[obj["Key"]] = obj["Size"]
+    return keys
+
+
+def find_and_optionally_delete_orphans(expected_keys: set[str], delete: bool) -> None:
+    """Report (and optionally delete) files that exist in R2 but are no
+    longer expected locally — i.e. not present in the current new_state."""
+    client = get_r2_client()
+    print("Отримую список файлів у R2 (може зайняти хвилину для великого бакета)...")
+    remote = list_all_r2_keys(client)
+    orphan_keys = [key for key in remote if key not in expected_keys]
+
+    if not orphan_keys:
+        print(f"У R2 зараз {len(remote)} файл(ів). Зайвих не знайдено — усе синхронізовано.")
+        return
+
+    total_mb = sum(remote[key] for key in orphan_keys) / (1024 * 1024)
+    print(f"У R2 зараз {len(remote)} файл(ів), локально очікується {len(expected_keys)}.")
+    print(f"Зайвих файлів: {len(orphan_keys)}")
+    print(f"Вони займають: {total_mb:.1f} МБ")
+
+    if not delete:
+        print("Запусти з --delete-orphans, щоб видалити їх (буде запитано підтвердження).")
+        return
+
+    confirm = input(
+        f"Видалити {len(orphan_keys)} файл(ів) з R2 НАЗАВЖДИ? (так/ні): "
+    ).strip().lower()
+    if confirm not in ("так", "yes", "y"):
+        print("Скасовано.")
+        return
+
+    for i in range(0, len(orphan_keys), 1000):  # S3 batch delete: max 1000/запит
+        batch = orphan_keys[i:i + 1000]
+        client.delete_objects(
+            Bucket=BUCKET, Delete={"Objects": [{"Key": key} for key in batch]}
+        )
+        print(f"Видалено {min(i + 1000, len(orphan_keys))}/{len(orphan_keys)}...")
+
+    print("Готово. Зайві файли видалено з R2.")
+
+
 def commit_and_push() -> bool:
     """Return True only after a successful commit and push to GitHub.
 
@@ -221,6 +319,16 @@ def main() -> None:
         "--rebuild-state",
         action="store_true",
         help="Створити .publish-state.json без завантаження в R2",
+    )
+    parser.add_argument(
+        "--find-orphans",
+        action="store_true",
+        help="Показати файли, які є в R2, але вже не потрібні локально",
+    )
+    parser.add_argument(
+        "--delete-orphans",
+        action="store_true",
+        help="Те саме, що --find-orphans, але з видаленням (після підтвердження)",
     )
     args = parser.parse_args()
     if not args.source.is_dir():
