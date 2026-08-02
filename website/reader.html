@@ -18,7 +18,7 @@
   .reader-bar a.back{color:var(--text);text-decoration:none;font-size:1.3rem;line-height:1}
   .reader-bar .meta{min-width:0;flex:1}
   .reader-bar .meta .t{font-weight:700;font-size:.95rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-  .reader-bar .meta .c{color:var(--muted);font-size:.8rem}
+  .reader-bar .meta .c{color:var(--muted);font-size:.8rem;text-decoration:none;display:block}
   .reader-bar.bottom button{background:none;border:0;color:var(--text);font-size:1.2rem;padding:8px 14px;cursor:pointer;border-radius:8px}
   .reader-bar.bottom button:disabled{color:#4a5160;cursor:default}
   .reader-bar.bottom button:not(:disabled):active{background:#ffffff1a}
@@ -38,7 +38,7 @@
 
 <header class="reader-bar top" hidden>
   <a class="back" href="#">←</a>
-  <div class="meta"><div class="t"></div><div class="c"></div></div>
+  <div class="meta"><div class="t"></div><a class="c" href="#"></a></div>
 </header>
 
 <div class="progress-track" hidden>
@@ -107,6 +107,7 @@
 
   topBar.querySelector(".back").href = backLink;
   topBar.querySelector(".t").textContent = title.title;
+  topBar.querySelector(".c").href = backLink;
   topBar.querySelector(".c").textContent = `Глава ${chapterNum}`;
   progressTrack.querySelector(".num.bottom").textContent = pages.length;
 
@@ -119,11 +120,28 @@
     pagesEl.appendChild(img);
   }
 
+  const chapterUrl = (num) => `reader.html?title=${encodeURIComponent(titleId)}&chapter=${encodeURIComponent(num)}`;
+
+  // Кнопки "Попередня/Наступна глава" одразу під останньою сторінкою —
+  // щоб не доводилось тапати екран заради навігаційної панелі.
+  const endNav = document.createElement("div");
+  endNav.className = "reader-nav";
+  endNav.innerHTML = `
+    ${prevNum
+      ? `<a class="nav-btn" href="${chapterUrl(prevNum)}">‹ Попередня глава</a>`
+      : `<span class="nav-btn disabled">‹ Попередня глава</span>`}
+    <a class="nav-btn" href="${backLink}">☰ Список глав</a>
+    ${nextNum
+      ? `<a class="nav-btn" href="${chapterUrl(nextNum)}">Наступна глава ›</a>`
+      : `<a class="nav-btn" href="index.html">На головну</a>`}
+  `;
+  pagesEl.after(endNav);
+
   const prevBtn = bottomBar.querySelector('[data-action="prev"]');
   const nextBtn = bottomBar.querySelector('[data-action="next"]');
   prevBtn.disabled = !prevNum;
   nextBtn.disabled = !nextNum;
-  const goto = (num) => { location.href = `reader.html?title=${encodeURIComponent(titleId)}&chapter=${encodeURIComponent(num)}`; };
+  const goto = (num) => { location.href = chapterUrl(num); };
   prevBtn.addEventListener("click", () => prevNum && goto(prevNum));
   nextBtn.addEventListener("click", () => nextNum && goto(nextNum));
   bottomBar.querySelector('[data-action="top"]').addEventListener("click", () => window.scrollTo({ top: 0, behavior: "smooth" }));
@@ -135,7 +153,7 @@
 
   // Тап по сторінці (поза кнопками/посиланнями) — показати/сховати оверлей.
   document.body.addEventListener("click", (e) => {
-    if (e.target.closest(".reader-bar, .progress-track")) return;
+    if (e.target.closest(".reader-bar, .progress-track, .reader-nav")) return;
     document.body.classList.toggle("ui-hidden");
   });
 
