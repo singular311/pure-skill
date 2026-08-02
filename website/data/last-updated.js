@@ -8,5 +8,6 @@ window.LAST_UPDATED = {
   "neperevershenyi-demon-spysa": 1785628773,
   "odnoho-dnya-ya-stav-drakonenyam": 1785629598,
   "pane-pozhyrachu-bud-laska-povodtesya-yak-finalnyi-bos": 1785645562,
-  "povernennya-maha-z-netriv": 1785648286
+  "povernennya-maha-z-netriv": 1785648286,
+  "posibnyk-slabaka-z-pidkorennya-vezhi": 1785651117
 };

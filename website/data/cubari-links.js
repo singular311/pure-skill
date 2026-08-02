@@ -660,5 +660,46 @@ window.CUBARI_LINKS = {
       "45",
       "46"
     ]
+  },
+  "posibnyk-slabaka-z-pidkorennya-vezhi": {
+    "link": "https://cubari.moe/read/gist/cmF3L3Npbmd1bGFyMzExL3B1cmUtc2tpbGwvbWFpbi93ZWJzaXRlL2N1YmFyaS9wb3NpYm55ay1zbGFiYWthLXotcGlka29yZW5ueWEtdmV6aGkuanNvbg/",
+    "chapters": [
+      "03",
+      "04",
+      "05",
+      "06",
+      "07",
+      "08",
+      "09",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39"
+    ]
   }
 };
