@@ -701,5 +701,16 @@ window.CUBARI_LINKS = {
       "38",
       "39"
     ]
+  },
+  "svit-pislya-kintsya": {
+    "link": "https://cubari.moe/read/gist/cmF3L3Npbmd1bGFyMzExL3B1cmUtc2tpbGwvbWFpbi93ZWJzaXRlL2N1YmFyaS9zdml0LXBpc2x5YS1raW50c3lhLmpzb24/",
+    "chapters": [
+      "121",
+      "122",
+      "123",
+      "124",
+      "125",
+      "126"
+    ]
   }
 };
