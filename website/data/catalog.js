@@ -1,5 +1,5 @@
 window.CATALOG_DATA = {
-  "generatedAt": "2026-08-02T14:48:36.727Z",
+  "generatedAt": "2026-08-02T15:26:28.456Z",
   "titles": [
     {
       "id": "absolyutna-vlada",
@@ -2642,10 +2642,14 @@ window.CATALOG_DATA = {
         {
           "number": "126",
           "pages": 45
+        },
+        {
+          "number": "127",
+          "pages": 40
         }
       ],
-      "latestChapter": "126",
-      "totalChapters": 6
+      "latestChapter": "127",
+      "totalChapters": 7
     },
     {
       "id": "tilky-ya-mozhu-voskresaty",
