@@ -728,5 +728,17 @@ window.CUBARI_LINKS = {
       "10",
       "11"
     ]
+  },
+  "ya-yedynyi-fermer-v-pidzemelli": {
+    "link": "https://cubari.moe/read/gist/cmF3L3Npbmd1bGFyMzExL3B1cmUtc2tpbGwvbWFpbi93ZWJzaXRlL2N1YmFyaS95YS15ZWR5bnlpLWZlcm1lci12LXBpZHplbWVsbGkuanNvbg/",
+    "chapters": [
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40"
+    ]
   }
 };

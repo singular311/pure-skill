@@ -11,5 +11,6 @@ window.LAST_UPDATED = {
   "povernennya-maha-z-netriv": 1785648286,
   "posibnyk-slabaka-z-pidkorennya-vezhi": 1785651117,
   "svit-pislya-kintsya": 1785651552,
-  "tilky-ya-mozhu-voskresaty": 1785652245
+  "tilky-ya-mozhu-voskresaty": 1785652245,
+  "ya-yedynyi-fermer-v-pidzemelli": 1785653138
 };
