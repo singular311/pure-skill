@@ -14,5 +14,6 @@ window.LAST_UPDATED = {
   "tilky-ya-mozhu-voskresaty": 1785652245,
   "ya-yedynyi-fermer-v-pidzemelli": 1785682262,
   "yak-vyzhyty-yakshcho-ty-lord-vampiriv": 1785678408,
-  "yak-demonichnyi-imperator-stav-dvoretskym": 1785656071
+  "yak-demonichnyi-imperator-stav-dvoretskym": 1785656071,
+  "henialnyi-pryzmatychnyi-mah": 1785766518
 };
