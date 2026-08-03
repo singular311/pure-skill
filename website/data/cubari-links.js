@@ -305,7 +305,8 @@ window.CUBARI_LINKS = {
       "21",
       "22",
       "23",
-      "24"
+      "24",
+      "25"
     ]
   },
   "henialnyi-pryzmatychnyi-mah": {
