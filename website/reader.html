@@ -26,7 +26,7 @@
   .progress-track .num{color:var(--muted);font-size:.7rem}
   .progress-track .track{position:relative;flex:1;width:3px;background:#ffffff26;border-radius:3px;margin:6px 0;cursor:pointer}
   .progress-track .thumb{position:absolute;left:50%;transform:translate(-50%,-50%);width:14px;height:14px;border-radius:50%;background:var(--accent);box-shadow:0 0 0 4px #0006}
-  #pages{max-width:var(--reader-width,720px);margin:0 auto;transition:max-width .2s ease}
+  #pages{max-width:var(--reader-width,720px);margin:0 auto;padding:0;transition:max-width .2s ease}
   #pages img{display:block;width:100%;height:auto}
   #reader-status{min-height:100vh;display:flex;align-items:center;justify-content:center;flex-direction:column;gap:14px;text-align:center;padding:24px;color:var(--muted)}
   #reader-status a{color:var(--accent);text-decoration:none;font-weight:700}
@@ -131,7 +131,6 @@
     ${prevNum
       ? `<a class="nav-btn" href="${chapterUrl(prevNum)}">‹ Попередня глава</a>`
       : `<span class="nav-btn disabled">‹ Попередня глава</span>`}
-    <a class="nav-btn" href="${backLink}">☰ Список глав</a>
     ${nextNum
       ? `<a class="nav-btn" href="${chapterUrl(nextNum)}">Наступна глава ›</a>`
       : `<a class="nav-btn" href="index.html">На головну</a>`}
