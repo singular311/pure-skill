@@ -1,5 +1,5 @@
 window.CATALOG_DATA = {
-  "generatedAt": "2026-08-05T12:37:07.273Z",
+  "generatedAt": "2026-08-05T14:15:18.949Z",
   "titles": [
     {
       "id": "absolyutna-vlada",
@@ -1170,10 +1170,14 @@ window.CATALOG_DATA = {
         {
           "number": "25",
           "pages": 39
+        },
+        {
+          "number": "26",
+          "pages": 40
         }
       ],
-      "latestChapter": "25",
-      "totalChapters": 25
+      "latestChapter": "26",
+      "totalChapters": 26
     },
     {
       "id": "henialnyi-pryzmatychnyi-mah",
