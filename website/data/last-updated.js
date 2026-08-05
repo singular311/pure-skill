@@ -20,5 +20,6 @@ window.LAST_UPDATED = {
   "absolyutnyi-nekromant": 1785848412,
   "bastard-klanu-mecha-shlyakh-do-vyzhyvannya": 1785852994,
   "vyzhyvannya-nevylikovno-khvoroho-heniya": 1785854053,
-  "vyzhyvannya-u-hri-za-varvara": 1785856219
+  "vyzhyvannya-u-hri-za-varvara": 1785856219,
+  "velykyi-nebesnyi-povelytel-demoniv": 1785933467
 };
