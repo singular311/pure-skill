@@ -15,7 +15,7 @@ window.LAST_UPDATED = {
   "ya-yedynyi-fermer-v-pidzemelli": 1785942778,
   "yak-vyzhyty-yakshcho-ty-lord-vampiriv": 1785944230,
   "yak-demonichnyi-imperator-stav-dvoretskym": 1785656071,
-  "henialnyi-pryzmatychnyi-mah": 1785766518,
+  "henialnyi-pryzmatychnyi-mah": 1786019380,
   "absolyutna-vlada": 1785847562,
   "absolyutnyi-nekromant": 1785848412,
   "bastard-klanu-mecha-shlyakh-do-vyzhyvannya": 1785852994,
