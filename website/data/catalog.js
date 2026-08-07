@@ -1,5 +1,5 @@
 window.CATALOG_DATA = {
-  "generatedAt": "2026-08-07T14:16:03.762Z",
+  "generatedAt": "2026-08-07T15:31:18.256Z",
   "titles": [
     {
       "id": "absolyutna-vlada",
@@ -2014,10 +2014,14 @@ window.CATALOG_DATA = {
         {
           "number": "104",
           "pages": 22
+        },
+        {
+          "number": "105",
+          "pages": 33
         }
       ],
-      "latestChapter": "104",
-      "totalChapters": 7
+      "latestChapter": "105",
+      "totalChapters": 8
     },
     {
       "id": "neperevershenyi-demon-spysa",
