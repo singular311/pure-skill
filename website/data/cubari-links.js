@@ -102,7 +102,8 @@ window.CUBARI_LINKS = {
       "30",
       "31",
       "32",
-      "33"
+      "33",
+      "34"
     ]
   },
   "bastard-klanu-mecha-shlyakh-do-vyzhyvannya": {
