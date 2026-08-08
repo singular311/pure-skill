@@ -287,7 +287,8 @@ window.CUBARI_LINKS = {
       "74",
       "75",
       "76",
-      "77"
+      "77",
+      "78"
     ]
   },
   "vsuperech-zanepadu": {
