@@ -21,6 +21,6 @@ window.LAST_UPDATED = {
   "bastard-klanu-mecha-shlyakh-do-vyzhyvannya": 1786183022,
   "vyzhyvannya-nevylikovno-khvoroho-heniya": 1786185349,
   "vyzhyvannya-u-hri-za-varvara": 1786186780,
-  "velykyi-nebesnyi-povelytel-demoniv": 1785933467,
+  "velykyi-nebesnyi-povelytel-demoniv": 1786187700,
   "aster-buntar-domu-tyraniv": 1786119601
 };
