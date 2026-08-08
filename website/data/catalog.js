@@ -1,5 +1,5 @@
 window.CATALOG_DATA = {
-  "generatedAt": "2026-08-08T10:35:24.584Z",
+  "generatedAt": "2026-08-08T10:59:06.833Z",
   "titles": [
     {
       "id": "absolyutna-vlada",
@@ -1080,10 +1080,14 @@ window.CATALOG_DATA = {
         {
           "number": "77",
           "pages": 53
+        },
+        {
+          "number": "78",
+          "pages": 58
         }
       ],
-      "latestChapter": "77",
-      "totalChapters": 20
+      "latestChapter": "78",
+      "totalChapters": 21
     },
     {
       "id": "vsuperech-zanepadu",
