@@ -1,5 +1,5 @@
 window.CATALOG_DATA = {
-  "generatedAt": "2026-08-08T09:56:37.825Z",
+  "generatedAt": "2026-08-08T10:35:24.584Z",
   "titles": [
     {
       "id": "absolyutna-vlada",
@@ -986,10 +986,14 @@ window.CATALOG_DATA = {
         {
           "number": "12",
           "pages": 51
+        },
+        {
+          "number": "13",
+          "pages": 53
         }
       ],
-      "latestChapter": "12",
-      "totalChapters": 12
+      "latestChapter": "13",
+      "totalChapters": 13
     },
     {
       "id": "vyzhyvannya-u-hri-za-varvara",
