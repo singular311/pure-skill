@@ -5,6 +5,1641 @@
   "author": "",
   "cover": "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/cover.webp",
   "chapters": {
+    "1": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/1/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/1/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/1/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/1/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/1/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/1/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/1/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/1/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/1/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/1/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/1/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/1/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/1/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/1/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/1/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/1/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/1/017.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "2": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/2/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/2/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/2/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/2/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/2/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/2/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/2/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/2/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/2/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/2/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/2/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/2/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/2/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/2/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/2/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/2/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/2/017.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/2/018.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/2/019.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/2/020.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/2/021.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/2/022.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/2/023.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/2/024.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/2/025.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "3": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/3/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/3/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/3/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/3/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/3/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/3/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/3/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/3/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/3/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/3/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/3/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/3/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/3/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/3/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/3/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/3/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/3/017.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/3/018.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "4": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/4/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/4/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/4/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/4/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/4/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/4/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/4/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/4/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/4/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/4/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/4/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/4/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/4/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/4/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/4/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/4/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/4/017.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/4/018.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/4/019.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "5": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/5/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/5/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/5/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/5/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/5/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/5/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/5/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/5/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/5/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/5/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/5/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/5/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/5/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/5/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/5/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/5/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/5/017.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "6": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/6/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/6/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/6/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/6/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/6/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/6/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/6/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/6/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/6/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/6/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/6/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/6/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/6/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/6/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/6/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/6/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/6/017.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/6/018.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/6/019.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/6/020.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "7": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/7/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/7/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/7/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/7/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/7/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/7/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/7/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/7/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/7/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/7/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/7/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/7/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/7/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/7/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/7/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/7/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/7/017.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/7/018.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/7/019.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/7/020.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/7/021.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/7/022.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/7/023.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "8": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/8/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/8/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/8/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/8/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/8/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/8/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/8/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/8/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/8/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/8/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/8/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/8/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/8/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/8/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/8/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/8/016.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "9": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/9/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/9/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/9/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/9/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/9/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/9/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/9/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/9/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/9/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/9/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/9/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/9/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/9/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/9/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/9/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/9/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/9/017.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/9/018.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/9/019.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "10": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/10/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/10/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/10/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/10/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/10/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/10/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/10/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/10/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/10/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/10/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/10/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/10/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/10/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/10/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/10/015.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "11": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/11/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/11/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/11/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/11/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/11/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/11/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/11/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/11/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/11/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/11/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/11/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/11/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/11/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/11/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/11/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/11/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/11/017.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "12": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/12/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/12/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/12/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/12/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/12/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/12/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/12/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/12/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/12/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/12/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/12/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/12/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/12/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/12/014.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "13": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/13/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/13/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/13/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/13/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/13/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/13/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/13/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/13/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/13/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/13/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/13/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/13/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/13/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/13/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/13/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/13/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/13/017.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/13/018.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/13/019.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/13/020.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/13/021.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/13/022.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "14": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/14/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/14/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/14/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/14/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/14/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/14/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/14/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/14/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/14/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/14/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/14/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/14/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/14/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/14/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/14/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/14/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/14/017.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "15": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/15/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/15/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/15/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/15/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/15/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/15/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/15/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/15/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/15/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/15/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/15/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/15/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/15/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/15/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/15/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/15/016.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "16": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/16/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/16/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/16/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/16/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/16/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/16/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/16/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/16/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/16/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/16/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/16/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/16/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/16/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/16/014.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "17": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/17/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/17/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/17/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/17/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/17/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/17/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/17/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/17/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/17/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/17/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/17/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/17/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/17/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/17/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/17/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/17/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/17/017.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "18": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/18/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/18/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/18/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/18/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/18/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/18/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/18/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/18/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/18/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/18/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/18/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/18/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/18/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/18/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/18/015.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "19": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/19/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/19/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/19/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/19/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/19/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/19/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/19/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/19/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/19/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/19/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/19/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/19/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/19/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/19/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/19/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/19/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/19/017.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/19/018.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/19/019.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/19/020.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/19/021.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "20": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/20/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/20/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/20/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/20/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/20/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/20/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/20/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/20/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/20/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/20/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/20/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/20/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/20/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/20/014.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "21": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/21/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/21/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/21/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/21/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/21/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/21/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/21/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/21/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/21/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/21/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/21/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/21/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/21/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/21/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/21/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/21/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/21/017.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/21/018.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "22": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/22/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/22/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/22/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/22/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/22/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/22/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/22/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/22/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/22/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/22/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/22/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/22/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/22/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/22/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/22/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/22/016.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "23": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/23/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/23/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/23/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/23/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/23/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/23/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/23/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/23/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/23/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/23/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/23/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/23/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/23/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/23/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/23/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/23/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/23/017.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "24": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/24/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/24/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/24/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/24/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/24/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/24/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/24/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/24/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/24/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/24/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/24/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/24/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/24/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/24/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/24/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/24/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/24/017.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/24/018.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/24/019.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/24/020.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/24/021.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/24/022.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/24/023.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "25": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/25/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/25/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/25/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/25/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/25/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/25/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/25/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/25/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/25/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/25/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/25/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/25/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/25/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/25/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/25/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/25/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/25/017.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/25/018.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/25/019.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/25/020.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/25/021.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/25/022.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/25/023.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/25/024.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/25/025.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/25/026.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "26": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/26/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/26/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/26/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/26/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/26/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/26/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/26/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/26/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/26/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/26/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/26/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/26/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/26/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/26/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/26/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/26/016.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "27": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/27/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/27/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/27/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/27/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/27/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/27/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/27/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/27/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/27/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/27/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/27/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/27/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/27/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/27/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/27/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/27/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/27/017.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/27/018.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/27/019.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/27/020.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/27/021.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/27/022.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/27/023.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/27/024.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/27/025.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/27/026.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "28": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/28/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/28/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/28/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/28/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/28/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/28/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/28/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/28/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/28/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/28/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/28/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/28/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/28/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/28/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/28/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/28/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/28/017.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/28/018.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/28/019.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/28/020.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/28/021.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/28/022.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/28/023.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/28/024.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/28/025.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/28/026.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/28/027.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "29": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/29/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/29/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/29/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/29/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/29/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/29/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/29/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/29/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/29/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/29/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/29/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/29/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/29/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/29/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/29/015.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "30": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/30/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/30/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/30/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/30/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/30/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/30/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/30/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/30/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/30/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/30/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/30/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/30/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/30/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/30/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/30/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/30/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/30/017.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/30/018.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/30/019.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/30/020.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/30/021.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/30/022.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/30/023.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/30/024.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/30/025.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/30/026.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/30/027.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/30/028.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/30/029.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/30/030.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/30/031.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/30/032.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/30/033.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "31": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/31/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/31/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/31/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/31/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/31/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/31/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/31/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/31/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/31/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/31/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/31/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/31/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/31/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/31/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/31/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/31/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/31/017.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "32": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/32/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/32/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/32/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/32/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/32/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/32/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/32/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/32/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/32/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/32/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/32/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/32/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/32/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/32/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/32/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/32/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/32/017.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/32/018.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/32/019.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/32/020.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/32/021.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "33": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/33/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/33/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/33/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/33/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/33/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/33/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/33/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/33/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/33/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/33/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/33/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/33/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/33/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/33/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/33/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/33/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/33/017.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/33/018.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/33/019.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/33/020.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/33/021.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/33/022.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "34": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/34/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/34/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/34/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/34/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/34/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/34/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/34/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/34/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/34/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/34/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/34/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/34/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/34/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/34/014.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "35": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/35/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/35/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/35/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/35/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/35/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/35/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/35/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/35/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/35/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/35/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/35/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/35/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/35/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/35/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/35/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/35/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/35/017.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/35/018.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/35/019.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/35/020.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/35/021.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/35/022.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/35/023.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/35/024.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/35/025.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/35/026.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "36": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/36/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/36/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/36/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/36/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/36/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/36/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/36/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/36/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/36/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/36/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/36/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/36/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/36/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/36/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/36/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/36/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/36/017.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/36/018.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/36/019.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/36/020.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/36/021.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/36/022.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/36/023.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "37": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/37/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/37/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/37/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/37/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/37/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/37/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/37/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/37/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/37/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/37/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/37/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/37/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/37/013.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "38": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/38/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/38/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/38/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/38/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/38/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/38/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/38/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/38/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/38/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/38/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/38/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/38/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/38/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/38/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/38/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/38/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/38/017.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/38/018.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/38/019.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/38/020.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/38/021.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/38/022.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/38/023.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "39": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/39/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/39/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/39/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/39/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/39/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/39/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/39/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/39/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/39/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/39/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/39/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/39/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/39/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/39/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/39/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/39/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/39/017.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/39/018.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/39/019.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/39/020.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/39/021.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/39/022.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/39/023.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/39/024.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/39/025.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/39/026.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/39/027.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/39/028.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/39/029.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "40": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/40/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/40/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/40/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/40/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/40/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/40/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/40/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/40/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/40/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/40/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/40/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/40/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/40/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/40/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/40/015.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "41": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/41/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/41/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/41/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/41/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/41/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/41/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/41/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/41/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/41/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/41/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/41/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/41/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/41/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/41/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/41/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/41/016.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "42": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/42/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/42/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/42/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/42/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/42/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/42/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/42/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/42/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/42/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/42/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/42/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/42/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/42/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/42/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/42/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/42/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/42/017.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/42/018.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/42/019.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/42/020.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/42/021.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/42/022.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/42/023.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "43": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/43/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/43/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/43/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/43/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/43/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/43/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/43/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/43/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/43/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/43/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/43/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/43/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/43/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/43/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/43/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/43/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/43/017.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/43/018.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/43/019.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/43/020.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/43/021.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/43/022.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/43/023.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/43/024.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/43/025.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/43/026.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/43/027.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/43/028.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/43/029.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "44": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/44/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/44/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/44/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/44/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/44/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/44/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/44/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/44/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/44/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/44/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/44/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/44/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/44/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/44/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/44/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/44/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/44/017.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/44/018.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/44/019.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/44/020.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/44/021.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/44/022.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/44/023.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/44/024.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/44/025.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "45": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/45/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/45/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/45/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/45/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/45/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/45/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/45/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/45/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/45/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/45/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/45/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/45/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/45/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/45/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/45/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/45/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/45/017.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/45/018.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/45/019.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "46": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/46/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/46/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/46/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/46/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/46/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/46/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/46/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/46/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/46/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/46/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/46/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/46/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/46/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/46/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/46/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/46/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/46/017.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/46/018.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/46/019.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "47": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/47/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/47/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/47/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/47/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/47/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/47/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/47/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/47/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/47/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/47/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/47/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/47/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/47/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/47/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/47/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/47/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/47/017.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/47/018.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/47/019.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/47/020.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/47/021.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/47/022.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/47/023.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "48": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/48/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/48/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/48/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/48/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/48/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/48/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/48/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/48/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/48/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/48/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/48/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/48/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/48/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/48/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/48/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/48/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/48/017.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/48/018.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/48/019.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/48/020.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/48/021.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/48/022.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/48/023.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "49": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/49/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/49/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/49/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/49/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/49/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/49/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/49/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/49/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/49/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/49/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/49/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/49/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/49/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/49/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/49/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/49/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/49/017.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/49/018.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/49/019.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/49/020.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/49/021.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/49/022.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/49/023.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "50": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/50/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/50/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/50/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/50/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/50/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/50/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/50/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/50/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/50/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/50/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/50/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/50/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/50/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/50/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/50/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/50/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/50/017.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/50/018.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/50/019.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/50/020.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/50/021.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/50/022.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/50/023.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/50/024.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "51": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/51/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/51/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/51/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/51/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/51/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/51/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/51/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/51/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/51/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/51/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/51/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/51/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/51/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/51/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/51/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/51/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/51/017.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/51/018.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "52": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/52/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/52/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/52/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/52/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/52/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/52/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/52/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/52/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/52/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/52/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/52/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/52/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/52/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/52/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/52/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/52/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/52/017.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/52/018.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "53": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/53/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/53/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/53/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/53/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/53/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/53/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/53/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/53/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/53/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/53/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/53/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/53/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/53/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/53/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/53/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/53/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/53/017.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/53/018.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/53/019.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/53/020.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "54": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/54/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/54/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/54/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/54/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/54/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/54/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/54/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/54/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/54/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/54/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/54/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/54/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/54/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/54/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/54/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/54/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/54/017.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "55": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/55/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/55/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/55/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/55/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/55/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/55/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/55/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/55/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/55/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/55/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/55/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/55/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/55/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/55/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/55/015.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "56": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/56/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/56/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/56/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/56/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/56/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/56/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/56/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/56/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/56/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/56/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/56/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/56/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/56/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/56/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/56/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/56/016.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
+    "57": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "Sub": [
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/57/001.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/57/002.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/57/003.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/57/004.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/57/005.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/57/006.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/57/007.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/57/008.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/57/009.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/57/010.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/57/011.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/57/012.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/57/013.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/57/014.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/57/015.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/57/016.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/57/017.webp",
+          "https://pure-skill.pages.dev/media/titles/vyzhyvannya-u-hri-za-varvara/chapters/57/018.webp"
+        ]
+      },
+      "last_updated": "1786267334"
+    },
     "58": {
       "title": "",
       "volume": "",
