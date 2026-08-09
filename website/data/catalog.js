@@ -1,5 +1,5 @@
 window.CATALOG_DATA = {
-  "generatedAt": "2026-08-09T10:38:51.720Z",
+  "generatedAt": "2026-08-09T11:16:51.396Z",
   "titles": [
     {
       "id": "absolyutna-vlada",
@@ -2014,6 +2014,230 @@ window.CATALOG_DATA = {
       "localCoverPath": "Жнець дрейфуючого місяця/cover.webp",
       "chapters": [
         {
+          "number": "0",
+          "pages": 6
+        },
+        {
+          "number": "1",
+          "pages": 12
+        },
+        {
+          "number": "2",
+          "pages": 10
+        },
+        {
+          "number": "3",
+          "pages": 14
+        },
+        {
+          "number": "4",
+          "pages": 10
+        },
+        {
+          "number": "5",
+          "pages": 12
+        },
+        {
+          "number": "6",
+          "pages": 13
+        },
+        {
+          "number": "7",
+          "pages": 11
+        },
+        {
+          "number": "8",
+          "pages": 13
+        },
+        {
+          "number": "9",
+          "pages": 16
+        },
+        {
+          "number": "10",
+          "pages": 12
+        },
+        {
+          "number": "11",
+          "pages": 14
+        },
+        {
+          "number": "12",
+          "pages": 16
+        },
+        {
+          "number": "13",
+          "pages": 21
+        },
+        {
+          "number": "14",
+          "pages": 18
+        },
+        {
+          "number": "15",
+          "pages": 23
+        },
+        {
+          "number": "16",
+          "pages": 21
+        },
+        {
+          "number": "17",
+          "pages": 22
+        },
+        {
+          "number": "18",
+          "pages": 20
+        },
+        {
+          "number": "19",
+          "pages": 19
+        },
+        {
+          "number": "20",
+          "pages": 20
+        },
+        {
+          "number": "21",
+          "pages": 19
+        },
+        {
+          "number": "22",
+          "pages": 20
+        },
+        {
+          "number": "23",
+          "pages": 17
+        },
+        {
+          "number": "24",
+          "pages": 22
+        },
+        {
+          "number": "25",
+          "pages": 15
+        },
+        {
+          "number": "26",
+          "pages": 22
+        },
+        {
+          "number": "27",
+          "pages": 18
+        },
+        {
+          "number": "28",
+          "pages": 18
+        },
+        {
+          "number": "29",
+          "pages": 20
+        },
+        {
+          "number": "30",
+          "pages": 18
+        },
+        {
+          "number": "31",
+          "pages": 16
+        },
+        {
+          "number": "32",
+          "pages": 19
+        },
+        {
+          "number": "33",
+          "pages": 14
+        },
+        {
+          "number": "34",
+          "pages": 16
+        },
+        {
+          "number": "35",
+          "pages": 17
+        },
+        {
+          "number": "36",
+          "pages": 17
+        },
+        {
+          "number": "37",
+          "pages": 11
+        },
+        {
+          "number": "38",
+          "pages": 15
+        },
+        {
+          "number": "39",
+          "pages": 11
+        },
+        {
+          "number": "40",
+          "pages": 15
+        },
+        {
+          "number": "41",
+          "pages": 14
+        },
+        {
+          "number": "42",
+          "pages": 13
+        },
+        {
+          "number": "43",
+          "pages": 9
+        },
+        {
+          "number": "44",
+          "pages": 13
+        },
+        {
+          "number": "45",
+          "pages": 13
+        },
+        {
+          "number": "46",
+          "pages": 13
+        },
+        {
+          "number": "47",
+          "pages": 18
+        },
+        {
+          "number": "48",
+          "pages": 13
+        },
+        {
+          "number": "49",
+          "pages": 13
+        },
+        {
+          "number": "50",
+          "pages": 13
+        },
+        {
+          "number": "51",
+          "pages": 16
+        },
+        {
+          "number": "52",
+          "pages": 14
+        },
+        {
+          "number": "53",
+          "pages": 18
+        },
+        {
+          "number": "54",
+          "pages": 12
+        },
+        {
+          "number": "55",
+          "pages": 12
+        },
+        {
           "number": "56",
           "pages": 38
         },
@@ -2135,7 +2359,7 @@ window.CATALOG_DATA = {
         }
       ],
       "latestChapter": "85",
-      "totalChapters": 30
+      "totalChapters": 86
     },
     {
       "id": "istoriya-vyzhyvannya-korolya-mecha-u-inshomu-sviti",
@@ -3332,6 +3556,394 @@ window.CATALOG_DATA = {
       "localCoverPath": "Лицар вогню/cover.webp",
       "chapters": [
         {
+          "number": "1",
+          "pages": 11
+        },
+        {
+          "number": "2",
+          "pages": 10
+        },
+        {
+          "number": "3",
+          "pages": 8
+        },
+        {
+          "number": "4",
+          "pages": 22
+        },
+        {
+          "number": "5",
+          "pages": 9
+        },
+        {
+          "number": "6",
+          "pages": 9
+        },
+        {
+          "number": "7",
+          "pages": 7
+        },
+        {
+          "number": "8",
+          "pages": 8
+        },
+        {
+          "number": "9",
+          "pages": 9
+        },
+        {
+          "number": "10",
+          "pages": 9
+        },
+        {
+          "number": "11",
+          "pages": 10
+        },
+        {
+          "number": "12",
+          "pages": 10
+        },
+        {
+          "number": "13",
+          "pages": 10
+        },
+        {
+          "number": "14",
+          "pages": 9
+        },
+        {
+          "number": "15",
+          "pages": 9
+        },
+        {
+          "number": "16",
+          "pages": 9
+        },
+        {
+          "number": "17",
+          "pages": 10
+        },
+        {
+          "number": "18",
+          "pages": 8
+        },
+        {
+          "number": "19",
+          "pages": 9
+        },
+        {
+          "number": "20",
+          "pages": 10
+        },
+        {
+          "number": "21",
+          "pages": 8
+        },
+        {
+          "number": "22",
+          "pages": 8
+        },
+        {
+          "number": "23",
+          "pages": 8
+        },
+        {
+          "number": "24",
+          "pages": 8
+        },
+        {
+          "number": "25",
+          "pages": 8
+        },
+        {
+          "number": "26",
+          "pages": 8
+        },
+        {
+          "number": "27",
+          "pages": 8
+        },
+        {
+          "number": "28",
+          "pages": 8
+        },
+        {
+          "number": "29",
+          "pages": 8
+        },
+        {
+          "number": "30",
+          "pages": 8
+        },
+        {
+          "number": "31",
+          "pages": 8
+        },
+        {
+          "number": "32",
+          "pages": 8
+        },
+        {
+          "number": "33",
+          "pages": 8
+        },
+        {
+          "number": "34",
+          "pages": 8
+        },
+        {
+          "number": "35",
+          "pages": 8
+        },
+        {
+          "number": "36",
+          "pages": 8
+        },
+        {
+          "number": "37",
+          "pages": 8
+        },
+        {
+          "number": "38",
+          "pages": 8
+        },
+        {
+          "number": "39",
+          "pages": 8
+        },
+        {
+          "number": "40",
+          "pages": 8
+        },
+        {
+          "number": "41",
+          "pages": 8
+        },
+        {
+          "number": "42",
+          "pages": 8
+        },
+        {
+          "number": "43",
+          "pages": 8
+        },
+        {
+          "number": "44",
+          "pages": 8
+        },
+        {
+          "number": "45",
+          "pages": 8
+        },
+        {
+          "number": "46",
+          "pages": 8
+        },
+        {
+          "number": "47",
+          "pages": 8
+        },
+        {
+          "number": "48",
+          "pages": 8
+        },
+        {
+          "number": "49",
+          "pages": 8
+        },
+        {
+          "number": "50",
+          "pages": 8
+        },
+        {
+          "number": "51",
+          "pages": 8
+        },
+        {
+          "number": "52",
+          "pages": 8
+        },
+        {
+          "number": "53",
+          "pages": 8
+        },
+        {
+          "number": "54",
+          "pages": 8
+        },
+        {
+          "number": "55",
+          "pages": 8
+        },
+        {
+          "number": "56",
+          "pages": 8
+        },
+        {
+          "number": "57",
+          "pages": 8
+        },
+        {
+          "number": "58",
+          "pages": 8
+        },
+        {
+          "number": "59",
+          "pages": 8
+        },
+        {
+          "number": "60",
+          "pages": 8
+        },
+        {
+          "number": "61",
+          "pages": 8
+        },
+        {
+          "number": "62",
+          "pages": 10
+        },
+        {
+          "number": "63",
+          "pages": 9
+        },
+        {
+          "number": "64",
+          "pages": 10
+        },
+        {
+          "number": "65",
+          "pages": 9
+        },
+        {
+          "number": "66",
+          "pages": 8
+        },
+        {
+          "number": "67",
+          "pages": 10
+        },
+        {
+          "number": "68",
+          "pages": 10
+        },
+        {
+          "number": "69",
+          "pages": 8
+        },
+        {
+          "number": "70",
+          "pages": 8
+        },
+        {
+          "number": "71",
+          "pages": 10
+        },
+        {
+          "number": "72",
+          "pages": 8
+        },
+        {
+          "number": "73",
+          "pages": 6
+        },
+        {
+          "number": "74",
+          "pages": 8
+        },
+        {
+          "number": "75",
+          "pages": 9
+        },
+        {
+          "number": "76",
+          "pages": 10
+        },
+        {
+          "number": "77",
+          "pages": 8
+        },
+        {
+          "number": "78",
+          "pages": 8
+        },
+        {
+          "number": "79",
+          "pages": 8
+        },
+        {
+          "number": "80",
+          "pages": 8
+        },
+        {
+          "number": "81",
+          "pages": 8
+        },
+        {
+          "number": "82",
+          "pages": 8
+        },
+        {
+          "number": "83",
+          "pages": 9
+        },
+        {
+          "number": "84",
+          "pages": 9
+        },
+        {
+          "number": "85",
+          "pages": 9
+        },
+        {
+          "number": "86",
+          "pages": 10
+        },
+        {
+          "number": "87",
+          "pages": 10
+        },
+        {
+          "number": "88",
+          "pages": 8
+        },
+        {
+          "number": "89",
+          "pages": 9
+        },
+        {
+          "number": "90",
+          "pages": 10
+        },
+        {
+          "number": "91",
+          "pages": 10
+        },
+        {
+          "number": "92",
+          "pages": 8
+        },
+        {
+          "number": "93",
+          "pages": 8
+        },
+        {
+          "number": "94",
+          "pages": 9
+        },
+        {
+          "number": "95",
+          "pages": 8
+        },
+        {
+          "number": "96",
+          "pages": 9
+        },
+        {
+          "number": "97",
+          "pages": 10
+        },
+        {
           "number": "98",
           "pages": 29
         },
@@ -3365,7 +3977,7 @@ window.CATALOG_DATA = {
         }
       ],
       "latestChapter": "105",
-      "totalChapters": 8
+      "totalChapters": 105
     },
     {
       "id": "neperevershenyi-demon-spysa",
