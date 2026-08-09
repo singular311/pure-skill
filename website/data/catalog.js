@@ -1,5 +1,5 @@
 window.CATALOG_DATA = {
-  "generatedAt": "2026-08-09T12:00:44.913Z",
+  "generatedAt": "2026-08-09T13:10:50.228Z",
   "titles": [
     {
       "id": "absolyutna-vlada",
@@ -3945,35 +3945,35 @@ window.CATALOG_DATA = {
         },
         {
           "number": "98",
-          "pages": 29
+          "pages": 30
         },
         {
           "number": "99",
-          "pages": 23
-        },
-        {
-          "number": "100",
-          "pages": 26
-        },
-        {
-          "number": "101",
-          "pages": 28
-        },
-        {
-          "number": "102",
           "pages": 24
         },
         {
-          "number": "103",
+          "number": "100",
+          "pages": 27
+        },
+        {
+          "number": "101",
+          "pages": 29
+        },
+        {
+          "number": "102",
           "pages": 25
         },
         {
+          "number": "103",
+          "pages": 26
+        },
+        {
           "number": "104",
-          "pages": 22
+          "pages": 23
         },
         {
           "number": "105",
-          "pages": 33
+          "pages": 34
         }
       ],
       "latestChapter": "105",
@@ -5504,10 +5504,14 @@ window.CATALOG_DATA = {
         {
           "number": "51",
           "pages": 55
+        },
+        {
+          "number": "52",
+          "pages": 45
         }
       ],
-      "latestChapter": "51",
-      "totalChapters": 51
+      "latestChapter": "52",
+      "totalChapters": 52
     },
     {
       "id": "yak-demonichnyi-imperator-stav-dvoretskym",
