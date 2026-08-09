@@ -1057,6 +1057,10 @@ window.CUBARI_LINKS = {
   "yak-demonichnyi-imperator-stav-dvoretskym": {
     "link": "https://cubari.moe/read/gist/cmF3L3Npbmd1bGFyMzExL3B1cmUtc2tpbGwvbWFpbi93ZWJzaXRlL2N1YmFyaS95YWstZGVtb25pY2hueWktaW1wZXJhdG9yLXN0YXYtZHZvcmV0c2t5bS5qc29u/",
     "chapters": [
+      "1",
+      "2",
+      "3",
+      "4",
       "5",
       "6",
       "7",
