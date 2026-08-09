@@ -1433,7 +1433,8 @@ window.CUBARI_LINKS = {
       "48",
       "49",
       "50",
-      "51"
+      "51",
+      "52"
     ]
   },
   "yak-demonichnyi-imperator-stav-dvoretskym": {
