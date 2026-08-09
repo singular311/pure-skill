@@ -1,5 +1,5 @@
 window.CATALOG_DATA = {
-  "generatedAt": "2026-08-09T09:00:48.867Z",
+  "generatedAt": "2026-08-09T09:25:55.973Z",
   "titles": [
     {
       "id": "absolyutna-vlada",
@@ -97,6 +97,86 @@ window.CATALOG_DATA = {
       "coverPath": "absolyutnyi-nekromant/cover.webp",
       "localCoverPath": "Абсолютний Некромант/cover.webp",
       "chapters": [
+        {
+          "number": "1",
+          "pages": 16
+        },
+        {
+          "number": "2",
+          "pages": 11
+        },
+        {
+          "number": "3",
+          "pages": 11
+        },
+        {
+          "number": "4",
+          "pages": 12
+        },
+        {
+          "number": "5",
+          "pages": 13
+        },
+        {
+          "number": "6",
+          "pages": 14
+        },
+        {
+          "number": "7",
+          "pages": 15
+        },
+        {
+          "number": "8",
+          "pages": 12
+        },
+        {
+          "number": "9",
+          "pages": 16
+        },
+        {
+          "number": "10",
+          "pages": 13
+        },
+        {
+          "number": "11",
+          "pages": 14
+        },
+        {
+          "number": "12",
+          "pages": 14
+        },
+        {
+          "number": "13",
+          "pages": 12
+        },
+        {
+          "number": "14",
+          "pages": 13
+        },
+        {
+          "number": "15",
+          "pages": 11
+        },
+        {
+          "number": "16",
+          "pages": 13
+        },
+        {
+          "number": "17",
+          "pages": 15
+        },
+        {
+          "number": "18",
+          "pages": 12
+        },
+        {
+          "number": "19",
+          "pages": 12
+        },
+        {
+          "number": "20",
+          "pages": 13
+        },
         {
           "number": "22",
           "pages": 37
@@ -255,7 +335,7 @@ window.CATALOG_DATA = {
         }
       ],
       "latestChapter": "60",
-      "totalChapters": 39
+      "totalChapters": 59
     },
     {
       "id": "aster-buntar-domu-tyraniv",
@@ -409,6 +489,94 @@ window.CATALOG_DATA = {
       "coverPath": "bastard-klanu-mecha-shlyakh-do-vyzhyvannya/cover.webp",
       "localCoverPath": "Бастард клану меча шлях до виживання/cover.webp",
       "chapters": [
+        {
+          "number": "1",
+          "pages": 21
+        },
+        {
+          "number": "2",
+          "pages": 24
+        },
+        {
+          "number": "3",
+          "pages": 20
+        },
+        {
+          "number": "4",
+          "pages": 21
+        },
+        {
+          "number": "5",
+          "pages": 16
+        },
+        {
+          "number": "6",
+          "pages": 22
+        },
+        {
+          "number": "7",
+          "pages": 19
+        },
+        {
+          "number": "8",
+          "pages": 21
+        },
+        {
+          "number": "9",
+          "pages": 22
+        },
+        {
+          "number": "10",
+          "pages": 16
+        },
+        {
+          "number": "11",
+          "pages": 17
+        },
+        {
+          "number": "12",
+          "pages": 17
+        },
+        {
+          "number": "13",
+          "pages": 17
+        },
+        {
+          "number": "14",
+          "pages": 16
+        },
+        {
+          "number": "15",
+          "pages": 16
+        },
+        {
+          "number": "16",
+          "pages": 19
+        },
+        {
+          "number": "17",
+          "pages": 13
+        },
+        {
+          "number": "18",
+          "pages": 15
+        },
+        {
+          "number": "19",
+          "pages": 14
+        },
+        {
+          "number": "20",
+          "pages": 15
+        },
+        {
+          "number": "21",
+          "pages": 18
+        },
+        {
+          "number": "22",
+          "pages": 17
+        },
         {
           "number": "23",
           "pages": 41
@@ -575,7 +743,7 @@ window.CATALOG_DATA = {
         }
       ],
       "latestChapter": "63",
-      "totalChapters": 41
+      "totalChapters": 63
     },
     {
       "id": "bezsmertnyi-khlopchyk",
@@ -2968,6 +3136,490 @@ window.CATALOG_DATA = {
       "localCoverPath": "Світ після кінця/cover.webp",
       "chapters": [
         {
+          "number": "0",
+          "pages": 5
+        },
+        {
+          "number": "1",
+          "pages": 10
+        },
+        {
+          "number": "2",
+          "pages": 12
+        },
+        {
+          "number": "3",
+          "pages": 12
+        },
+        {
+          "number": "4",
+          "pages": 14
+        },
+        {
+          "number": "5",
+          "pages": 16
+        },
+        {
+          "number": "6",
+          "pages": 17
+        },
+        {
+          "number": "7",
+          "pages": 15
+        },
+        {
+          "number": "8",
+          "pages": 17
+        },
+        {
+          "number": "9",
+          "pages": 14
+        },
+        {
+          "number": "10",
+          "pages": 14
+        },
+        {
+          "number": "11",
+          "pages": 16
+        },
+        {
+          "number": "12",
+          "pages": 15
+        },
+        {
+          "number": "13",
+          "pages": 15
+        },
+        {
+          "number": "14",
+          "pages": 13
+        },
+        {
+          "number": "15",
+          "pages": 13
+        },
+        {
+          "number": "16",
+          "pages": 16
+        },
+        {
+          "number": "17",
+          "pages": 15
+        },
+        {
+          "number": "18",
+          "pages": 13
+        },
+        {
+          "number": "19",
+          "pages": 10
+        },
+        {
+          "number": "20",
+          "pages": 12
+        },
+        {
+          "number": "21",
+          "pages": 12
+        },
+        {
+          "number": "22",
+          "pages": 12
+        },
+        {
+          "number": "23",
+          "pages": 12
+        },
+        {
+          "number": "24",
+          "pages": 14
+        },
+        {
+          "number": "25",
+          "pages": 14
+        },
+        {
+          "number": "26",
+          "pages": 12
+        },
+        {
+          "number": "27",
+          "pages": 14
+        },
+        {
+          "number": "28",
+          "pages": 12
+        },
+        {
+          "number": "29",
+          "pages": 14
+        },
+        {
+          "number": "30",
+          "pages": 14
+        },
+        {
+          "number": "31",
+          "pages": 11
+        },
+        {
+          "number": "32",
+          "pages": 13
+        },
+        {
+          "number": "33",
+          "pages": 10
+        },
+        {
+          "number": "34",
+          "pages": 12
+        },
+        {
+          "number": "35",
+          "pages": 10
+        },
+        {
+          "number": "36",
+          "pages": 10
+        },
+        {
+          "number": "37",
+          "pages": 8
+        },
+        {
+          "number": "38",
+          "pages": 11
+        },
+        {
+          "number": "39",
+          "pages": 12
+        },
+        {
+          "number": "40",
+          "pages": 10
+        },
+        {
+          "number": "41",
+          "pages": 12
+        },
+        {
+          "number": "42",
+          "pages": 10
+        },
+        {
+          "number": "43",
+          "pages": 14
+        },
+        {
+          "number": "44",
+          "pages": 12
+        },
+        {
+          "number": "45",
+          "pages": 14
+        },
+        {
+          "number": "46",
+          "pages": 13
+        },
+        {
+          "number": "47",
+          "pages": 16
+        },
+        {
+          "number": "48",
+          "pages": 14
+        },
+        {
+          "number": "49",
+          "pages": 14
+        },
+        {
+          "number": "50",
+          "pages": 16
+        },
+        {
+          "number": "51",
+          "pages": 15
+        },
+        {
+          "number": "52",
+          "pages": 13
+        },
+        {
+          "number": "53",
+          "pages": 14
+        },
+        {
+          "number": "54",
+          "pages": 12
+        },
+        {
+          "number": "55",
+          "pages": 12
+        },
+        {
+          "number": "56",
+          "pages": 13
+        },
+        {
+          "number": "57",
+          "pages": 12
+        },
+        {
+          "number": "58",
+          "pages": 15
+        },
+        {
+          "number": "59",
+          "pages": 13
+        },
+        {
+          "number": "60",
+          "pages": 10
+        },
+        {
+          "number": "61",
+          "pages": 12
+        },
+        {
+          "number": "62",
+          "pages": 10
+        },
+        {
+          "number": "63",
+          "pages": 12
+        },
+        {
+          "number": "64",
+          "pages": 13
+        },
+        {
+          "number": "65",
+          "pages": 12
+        },
+        {
+          "number": "66",
+          "pages": 12
+        },
+        {
+          "number": "67",
+          "pages": 12
+        },
+        {
+          "number": "68",
+          "pages": 15
+        },
+        {
+          "number": "69",
+          "pages": 11
+        },
+        {
+          "number": "70",
+          "pages": 17
+        },
+        {
+          "number": "71",
+          "pages": 14
+        },
+        {
+          "number": "72",
+          "pages": 8
+        },
+        {
+          "number": "73",
+          "pages": 10
+        },
+        {
+          "number": "74",
+          "pages": 12
+        },
+        {
+          "number": "75",
+          "pages": 14
+        },
+        {
+          "number": "76",
+          "pages": 12
+        },
+        {
+          "number": "77",
+          "pages": 13
+        },
+        {
+          "number": "78",
+          "pages": 11
+        },
+        {
+          "number": "79",
+          "pages": 11
+        },
+        {
+          "number": "80",
+          "pages": 11
+        },
+        {
+          "number": "81",
+          "pages": 17
+        },
+        {
+          "number": "82",
+          "pages": 18
+        },
+        {
+          "number": "83",
+          "pages": 15
+        },
+        {
+          "number": "84",
+          "pages": 20
+        },
+        {
+          "number": "85",
+          "pages": 18
+        },
+        {
+          "number": "86",
+          "pages": 16
+        },
+        {
+          "number": "87",
+          "pages": 15
+        },
+        {
+          "number": "88",
+          "pages": 16
+        },
+        {
+          "number": "89",
+          "pages": 16
+        },
+        {
+          "number": "90",
+          "pages": 16
+        },
+        {
+          "number": "91",
+          "pages": 18
+        },
+        {
+          "number": "92",
+          "pages": 17
+        },
+        {
+          "number": "93",
+          "pages": 13
+        },
+        {
+          "number": "94",
+          "pages": 11
+        },
+        {
+          "number": "95",
+          "pages": 13
+        },
+        {
+          "number": "96",
+          "pages": 12
+        },
+        {
+          "number": "97",
+          "pages": 11
+        },
+        {
+          "number": "98",
+          "pages": 14
+        },
+        {
+          "number": "99",
+          "pages": 11
+        },
+        {
+          "number": "100",
+          "pages": 14
+        },
+        {
+          "number": "101",
+          "pages": 13
+        },
+        {
+          "number": "102",
+          "pages": 12
+        },
+        {
+          "number": "103",
+          "pages": 14
+        },
+        {
+          "number": "104",
+          "pages": 11
+        },
+        {
+          "number": "105",
+          "pages": 13
+        },
+        {
+          "number": "106",
+          "pages": 12
+        },
+        {
+          "number": "107",
+          "pages": 12
+        },
+        {
+          "number": "108",
+          "pages": 13
+        },
+        {
+          "number": "109",
+          "pages": 10
+        },
+        {
+          "number": "110",
+          "pages": 11
+        },
+        {
+          "number": "111",
+          "pages": 11
+        },
+        {
+          "number": "112",
+          "pages": 14
+        },
+        {
+          "number": "113",
+          "pages": 11
+        },
+        {
+          "number": "114",
+          "pages": 13
+        },
+        {
+          "number": "115",
+          "pages": 11
+        },
+        {
+          "number": "116",
+          "pages": 12
+        },
+        {
+          "number": "117",
+          "pages": 14
+        },
+        {
+          "number": "118",
+          "pages": 12
+        },
+        {
+          "number": "119",
+          "pages": 19
+        },
+        {
+          "number": "120",
+          "pages": 21
+        },
+        {
           "number": "121",
           "pages": 58
         },
@@ -3001,7 +3653,7 @@ window.CATALOG_DATA = {
         }
       ],
       "latestChapter": "128",
-      "totalChapters": 8
+      "totalChapters": 129
     },
     {
       "id": "tilky-ya-mozhu-voskresaty",
@@ -3336,6 +3988,22 @@ window.CATALOG_DATA = {
       "localCoverPath": "Як Демонічний Імператор став дворецьким/cover.webp",
       "chapters": [
         {
+          "number": "1",
+          "pages": 12
+        },
+        {
+          "number": "2",
+          "pages": 6
+        },
+        {
+          "number": "3",
+          "pages": 18
+        },
+        {
+          "number": "4",
+          "pages": 14
+        },
+        {
           "number": "5",
           "pages": 31
         },
@@ -3361,7 +4029,7 @@ window.CATALOG_DATA = {
         }
       ],
       "latestChapter": "10",
-      "totalChapters": 6
+      "totalChapters": 10
     }
   ]
 };
