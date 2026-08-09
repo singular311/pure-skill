@@ -1,5 +1,5 @@
 window.CATALOG_DATA = {
-  "generatedAt": "2026-08-09T08:57:47.999Z",
+  "generatedAt": "2026-08-09T09:00:12.692Z",
   "titles": [
     {
       "id": "absolyutna-vlada",
@@ -1006,6 +1006,234 @@ window.CATALOG_DATA = {
       "localCoverPath": "Виживання у грі за варвара/cover.webp",
       "chapters": [
         {
+          "number": "1",
+          "pages": 17
+        },
+        {
+          "number": "2",
+          "pages": 25
+        },
+        {
+          "number": "3",
+          "pages": 18
+        },
+        {
+          "number": "4",
+          "pages": 19
+        },
+        {
+          "number": "5",
+          "pages": 17
+        },
+        {
+          "number": "6",
+          "pages": 20
+        },
+        {
+          "number": "7",
+          "pages": 23
+        },
+        {
+          "number": "8",
+          "pages": 16
+        },
+        {
+          "number": "9",
+          "pages": 19
+        },
+        {
+          "number": "10",
+          "pages": 15
+        },
+        {
+          "number": "11",
+          "pages": 17
+        },
+        {
+          "number": "12",
+          "pages": 14
+        },
+        {
+          "number": "13",
+          "pages": 22
+        },
+        {
+          "number": "14",
+          "pages": 17
+        },
+        {
+          "number": "15",
+          "pages": 16
+        },
+        {
+          "number": "16",
+          "pages": 14
+        },
+        {
+          "number": "17",
+          "pages": 17
+        },
+        {
+          "number": "18",
+          "pages": 15
+        },
+        {
+          "number": "19",
+          "pages": 21
+        },
+        {
+          "number": "20",
+          "pages": 14
+        },
+        {
+          "number": "21",
+          "pages": 18
+        },
+        {
+          "number": "22",
+          "pages": 16
+        },
+        {
+          "number": "23",
+          "pages": 17
+        },
+        {
+          "number": "24",
+          "pages": 23
+        },
+        {
+          "number": "25",
+          "pages": 26
+        },
+        {
+          "number": "26",
+          "pages": 16
+        },
+        {
+          "number": "27",
+          "pages": 26
+        },
+        {
+          "number": "28",
+          "pages": 27
+        },
+        {
+          "number": "29",
+          "pages": 15
+        },
+        {
+          "number": "30",
+          "pages": 33
+        },
+        {
+          "number": "31",
+          "pages": 17
+        },
+        {
+          "number": "32",
+          "pages": 21
+        },
+        {
+          "number": "33",
+          "pages": 22
+        },
+        {
+          "number": "34",
+          "pages": 14
+        },
+        {
+          "number": "35",
+          "pages": 26
+        },
+        {
+          "number": "36",
+          "pages": 23
+        },
+        {
+          "number": "37",
+          "pages": 13
+        },
+        {
+          "number": "38",
+          "pages": 23
+        },
+        {
+          "number": "39",
+          "pages": 29
+        },
+        {
+          "number": "40",
+          "pages": 15
+        },
+        {
+          "number": "41",
+          "pages": 16
+        },
+        {
+          "number": "42",
+          "pages": 23
+        },
+        {
+          "number": "43",
+          "pages": 29
+        },
+        {
+          "number": "44",
+          "pages": 25
+        },
+        {
+          "number": "45",
+          "pages": 19
+        },
+        {
+          "number": "46",
+          "pages": 19
+        },
+        {
+          "number": "47",
+          "pages": 23
+        },
+        {
+          "number": "48",
+          "pages": 23
+        },
+        {
+          "number": "49",
+          "pages": 23
+        },
+        {
+          "number": "50",
+          "pages": 24
+        },
+        {
+          "number": "51",
+          "pages": 18
+        },
+        {
+          "number": "52",
+          "pages": 18
+        },
+        {
+          "number": "53",
+          "pages": 20
+        },
+        {
+          "number": "54",
+          "pages": 17
+        },
+        {
+          "number": "55",
+          "pages": 15
+        },
+        {
+          "number": "56",
+          "pages": 16
+        },
+        {
+          "number": "57",
+          "pages": 18
+        },
+        {
           "number": "58",
           "pages": 52
         },
@@ -1091,7 +1319,7 @@ window.CATALOG_DATA = {
         }
       ],
       "latestChapter": "78",
-      "totalChapters": 21
+      "totalChapters": 78
     },
     {
       "id": "vsuperech-zanepadu",
