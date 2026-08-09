@@ -462,7 +462,8 @@ window.CUBARI_LINKS = {
       "35",
       "36",
       "37",
-      "38"
+      "38",
+      "39"
     ]
   },
   "yedynyi-nekromant": {
