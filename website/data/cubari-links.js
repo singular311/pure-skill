@@ -1217,7 +1217,8 @@ window.CUBARI_LINKS = {
       "37",
       "38",
       "39",
-      "40"
+      "40",
+      "41"
     ]
   },
   "svit-pislya-kintsya": {
