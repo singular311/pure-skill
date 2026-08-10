@@ -1,5 +1,5 @@
 window.CATALOG_DATA = {
-  "generatedAt": "2026-08-10T14:33:21.952Z",
+  "generatedAt": "2026-08-10T15:03:08.241Z",
   "titles": [
     {
       "id": "absolyutna-vlada",
@@ -4680,10 +4680,14 @@ window.CATALOG_DATA = {
         {
           "number": "40",
           "pages": 54
+        },
+        {
+          "number": "41",
+          "pages": 56
         }
       ],
-      "latestChapter": "40",
-      "totalChapters": 37
+      "latestChapter": "41",
+      "totalChapters": 38
     },
     {
       "id": "svit-pislya-kintsya",
