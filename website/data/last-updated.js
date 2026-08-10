@@ -16,7 +16,7 @@ window.LAST_UPDATED = {
   "yak-vyzhyty-yakshcho-ty-lord-vampiriv": 1786281133,
   "yak-demonichnyi-imperator-stav-dvoretskym": 1786270196,
   "henialnyi-pryzmatychnyi-mah": 1786288109,
-  "absolyutna-vlada": 1786112194,
+  "absolyutna-vlada": 1786363766,
   "absolyutnyi-nekromant": 1786267860,
   "bastard-klanu-mecha-shlyakh-do-vyzhyvannya": 1786268311,
   "vyzhyvannya-nevylikovno-khvoroho-heniya": 1786185349,
