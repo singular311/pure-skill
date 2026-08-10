@@ -4,7 +4,7 @@ window.LAST_UPDATED = {
   "istoriya-vyzhyvannya-korolya-mecha-u-inshomu-sviti": 1786290420,
   "koloryst": 1785624892,
   "lytsar-vohnyu": 1786364504,
-  "vsuperech-zanepadu": 1785939354,
+  "vsuperech-zanepadu": 1786372431,
   "neperevershenyi-demon-spysa": 1785628773,
   "odnoho-dnya-ya-stav-drakonenyam": 1786289476,
   "pane-pozhyrachu-bud-laska-povodtesya-yak-finalnyi-bos": 1786360064,
