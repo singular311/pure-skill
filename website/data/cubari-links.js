@@ -528,7 +528,8 @@ window.CUBARI_LINKS = {
       "55",
       "56",
       "57",
-      "58"
+      "58",
+      "59"
     ]
   },
   "zhnets-dreifuyuchoho-misyatsya": {
