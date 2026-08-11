@@ -1,5 +1,5 @@
 window.CATALOG_DATA = {
-  "generatedAt": "2026-08-11T15:18:01.120Z",
+  "generatedAt": "2026-08-11T15:36:24.143Z",
   "titles": [
     {
       "id": "absolyutna-vlada",
@@ -748,10 +748,14 @@ window.CATALOG_DATA = {
         {
           "number": "63",
           "pages": 59
+        },
+        {
+          "number": "64",
+          "pages": 57
         }
       ],
-      "latestChapter": "63",
-      "totalChapters": 63
+      "latestChapter": "64",
+      "totalChapters": 64
     },
     {
       "id": "bezsmertnyi-khlopchyk",
