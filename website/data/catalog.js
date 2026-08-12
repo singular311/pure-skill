@@ -1,5 +1,5 @@
 window.CATALOG_DATA = {
-  "generatedAt": "2026-08-12T12:08:58.679Z",
+  "generatedAt": "2026-08-12T13:00:10.758Z",
   "titles": [
     {
       "id": "absolyutna-vlada",
@@ -5350,10 +5350,14 @@ window.CATALOG_DATA = {
         {
           "number": "43",
           "pages": 70
+        },
+        {
+          "number": "44",
+          "pages": 70
         }
       ],
-      "latestChapter": "43",
-      "totalChapters": 10
+      "latestChapter": "44",
+      "totalChapters": 11
     },
     {
       "id": "yak-vyzhyty-yakshcho-ty-lord-vampiriv",
