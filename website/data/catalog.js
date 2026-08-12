@@ -1,5 +1,5 @@
 window.CATALOG_DATA = {
-  "generatedAt": "2026-08-12T13:22:11.937Z",
+  "generatedAt": "2026-08-12T14:06:10.407Z",
   "titles": [
     {
       "id": "absolyutna-vlada",
@@ -5304,10 +5304,14 @@ window.CATALOG_DATA = {
         {
           "number": "13",
           "pages": 40
+        },
+        {
+          "number": "14",
+          "pages": 40
         }
       ],
-      "latestChapter": "13",
-      "totalChapters": 13
+      "latestChapter": "14",
+      "totalChapters": 14
     },
     {
       "id": "ya-yedynyi-fermer-v-pidzemelli",
