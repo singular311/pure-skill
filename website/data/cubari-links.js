@@ -1114,7 +1114,8 @@ window.CUBARI_LINKS = {
       "7",
       "8",
       "9",
-      "10"
+      "10",
+      "11"
     ]
   },
   "pane-pozhyrachu-bud-laska-povodtesya-yak-finalnyi-bos": {
