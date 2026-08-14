@@ -7,7 +7,7 @@ window.LAST_UPDATED = {
   "vsuperech-zanepadu": 1786372431,
   "neperevershenyi-demon-spysa": 1785628773,
   "odnoho-dnya-ya-stav-drakonenyam": 1786628253,
-  "pane-pozhyrachu-bud-laska-povodtesya-yak-finalnyi-bos": 1786360064,
+  "pane-pozhyrachu-bud-laska-povodtesya-yak-finalnyi-bos": 1786719744,
   "povernennya-maha-z-netriv": 1785648286,
   "posibnyk-slabaka-z-pidkorennya-vezhi": 1786374217,
   "svit-pislya-kintsya": 1786618274,
