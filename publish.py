@@ -375,7 +375,7 @@ def main() -> None:
 
         if title_changed:
             print(f"→ {title['id']}: завантажую {len(title_changed)} файл(ів)...")
-            with ThreadPoolExecutor(max_workers=2) as pool:
+            with ThreadPoolExecutor(max_workers=8) as pool:
                 for key, signature in pool.map(
                     upload_file,
                     [
