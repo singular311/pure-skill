@@ -235,7 +235,8 @@ window.CUBARI_LINKS = {
       "28",
       "29",
       "30",
-      "31"
+      "31",
+      "32"
     ]
   },
   "velykyi-nebesnyi-povelytel-demoniv": {
