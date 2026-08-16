@@ -19,7 +19,7 @@ window.LAST_UPDATED = {
   "absolyutna-vlada": 1786722816,
   "absolyutnyi-nekromant": 1786809693,
   "bastard-klanu-mecha-shlyakh-do-vyzhyvannya": 1786810719,
-  "vyzhyvannya-nevylikovno-khvoroho-heniya": 1786463331,
+  "vyzhyvannya-nevylikovno-khvoroho-heniya": 1786894137,
   "vyzhyvannya-u-hri-za-varvara": 1786536579,
   "velykyi-nebesnyi-povelytel-demoniv": 1786724240,
   "aster-buntar-domu-tyraniv": 1786616529
