@@ -1,5 +1,5 @@
 window.CATALOG_DATA = {
-  "generatedAt": "2026-08-17T17:52:10.371Z",
+  "generatedAt": "2026-08-18T14:40:15.179Z",
   "titles": [
     {
       "id": "absolyutna-vlada",
@@ -498,10 +498,14 @@ window.CATALOG_DATA = {
         {
           "number": "35",
           "pages": 41
+        },
+        {
+          "number": "36",
+          "pages": 33
         }
       ],
-      "latestChapter": "35",
-      "totalChapters": 35
+      "latestChapter": "36",
+      "totalChapters": 36
     },
     {
       "id": "bastard-klanu-mecha-shlyakh-do-vyzhyvannya",
