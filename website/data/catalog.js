@@ -1,5 +1,5 @@
 window.CATALOG_DATA = {
-  "generatedAt": "2026-08-20T15:02:09.988Z",
+  "generatedAt": "2026-08-20T15:45:50.016Z",
   "titles": [
     {
       "id": "absolyutna-vlada",
@@ -922,10 +922,14 @@ window.CATALOG_DATA = {
         {
           "number": "32",
           "pages": 72
+        },
+        {
+          "number": "33",
+          "pages": 68
         }
       ],
-      "latestChapter": "32",
-      "totalChapters": 32
+      "latestChapter": "33",
+      "totalChapters": 33
     },
     {
       "id": "velykyi-nebesnyi-povelytel-demoniv",
