@@ -11,7 +11,7 @@ window.LAST_UPDATED = {
   "povernennya-maha-z-netriv": 1785648286,
   "posibnyk-slabaka-z-pidkorennya-vezhi": 1786902951,
   "svit-pislya-kintsya": 1787065581,
-  "tilky-ya-mozhu-voskresaty": 1786989158,
+  "tilky-ya-mozhu-voskresaty": 1787326239,
   "ya-yedynyi-fermer-v-pidzemelli": 1787322249,
   "yak-vyzhyty-yakshcho-ty-lord-vampiriv": 1787234609,
   "yak-demonichnyi-imperator-stav-dvoretskym": 1786270196,
