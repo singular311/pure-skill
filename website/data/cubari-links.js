@@ -329,7 +329,8 @@ window.CUBARI_LINKS = {
       "13",
       "14",
       "15",
-      "16"
+      "16",
+      "17"
     ]
   },
   "vyzhyvannya-u-hri-za-varvara": {
