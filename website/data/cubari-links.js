@@ -655,7 +655,8 @@ window.CUBARI_LINKS = {
       "85",
       "86",
       "87",
-      "88"
+      "88",
+      "89"
     ]
   },
   "istoriya-vyzhyvannya-korolya-mecha-u-inshomu-sviti": {
