@@ -1454,7 +1454,8 @@ window.CUBARI_LINKS = {
       "43",
       "44",
       "45",
-      "46"
+      "46",
+      "47"
     ]
   },
   "yak-vyzhyty-yakshcho-ty-lord-vampiriv": {
