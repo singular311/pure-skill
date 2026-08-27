@@ -1416,7 +1416,8 @@ window.CUBARI_LINKS = {
       "129",
       "130",
       "131",
-      "132"
+      "132",
+      "133"
     ]
   },
   "tilky-ya-mozhu-voskresaty": {
