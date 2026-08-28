@@ -1,5 +1,5 @@
 window.CATALOG_DATA = {
-  "generatedAt": "2026-08-28T14:09:48.173Z",
+  "generatedAt": "2026-08-28T14:29:17.405Z",
   "titles": [
     {
       "id": "absolyutna-vlada",
@@ -2182,10 +2182,14 @@ window.CATALOG_DATA = {
         {
           "number": "62",
           "pages": 34
+        },
+        {
+          "number": "63",
+          "pages": 40
         }
       ],
-      "latestChapter": "62",
-      "totalChapters": 62
+      "latestChapter": "63",
+      "totalChapters": 63
     },
     {
       "id": "zhnets-dreifuyuchoho-misyatsya",
