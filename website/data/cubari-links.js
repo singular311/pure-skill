@@ -1183,7 +1183,8 @@ window.CUBARI_LINKS = {
       "14",
       "15",
       "16",
-      "17"
+      "17",
+      "18"
     ]
   },
   "povernennya-maha-z-netriv": {
