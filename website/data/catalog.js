@@ -1,5 +1,5 @@
 window.CATALOG_DATA = {
-  "generatedAt": "2026-08-28T14:29:17.405Z",
+  "generatedAt": "2026-08-28T15:08:44.211Z",
   "titles": [
     {
       "id": "absolyutna-vlada",
@@ -368,10 +368,14 @@ window.CATALOG_DATA = {
         {
           "number": "64",
           "pages": 53
+        },
+        {
+          "number": "65",
+          "pages": 49
         }
       ],
-      "latestChapter": "64",
-      "totalChapters": 63
+      "latestChapter": "65",
+      "totalChapters": 64
     },
     {
       "id": "aster-buntar-domu-tyraniv",
