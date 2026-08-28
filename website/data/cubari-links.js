@@ -94,7 +94,8 @@ window.CUBARI_LINKS = {
       "61",
       "62",
       "63",
-      "64"
+      "64",
+      "65"
     ]
   },
   "aster-buntar-domu-tyraniv": {

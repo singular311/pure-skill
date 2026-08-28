@@ -17,7 +17,7 @@ window.LAST_UPDATED = {
   "yak-demonichnyi-imperator-stav-dvoretskym": 1786270196,
   "henialnyi-pryzmatychnyi-mah": 1787844935,
   "absolyutna-vlada": 1787919012,
-  "absolyutnyi-nekromant": 1787509635,
+  "absolyutnyi-nekromant": 1787929751,
   "bastard-klanu-mecha-shlyakh-do-vyzhyvannya": 1787580953,
   "vyzhyvannya-nevylikovno-khvoroho-heniya": 1787589723,
   "vyzhyvannya-u-hri-za-varvara": 1787591144,
