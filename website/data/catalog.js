@@ -1,5 +1,5 @@
 window.CATALOG_DATA = {
-  "generatedAt": "2026-08-27T17:39:16.990Z",
+  "generatedAt": "2026-08-28T11:44:13.199Z",
   "titles": [
     {
       "id": "absolyutna-vlada",
@@ -4564,10 +4564,14 @@ window.CATALOG_DATA = {
         {
           "number": "17",
           "pages": 39
+        },
+        {
+          "number": "18",
+          "pages": 41
         }
       ],
-      "latestChapter": "17",
-      "totalChapters": 17
+      "latestChapter": "18",
+      "totalChapters": 18
     },
     {
       "id": "povernennya-maha-z-netriv",
