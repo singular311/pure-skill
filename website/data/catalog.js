@@ -1,5 +1,5 @@
 window.CATALOG_DATA = {
-  "generatedAt": "2026-08-28T15:08:44.211Z",
+  "generatedAt": "2026-08-29T13:28:59.250Z",
   "titles": [
     {
       "id": "absolyutna-vlada",
@@ -3594,10 +3594,14 @@ window.CATALOG_DATA = {
         {
           "number": "255",
           "pages": 50
+        },
+        {
+          "number": "256",
+          "pages": 41
         }
       ],
-      "latestChapter": "255",
-      "totalChapters": 256
+      "latestChapter": "256",
+      "totalChapters": 257
     },
     {
       "id": "koloryst",
