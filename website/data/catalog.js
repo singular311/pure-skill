@@ -1,5 +1,5 @@
 window.CATALOG_DATA = {
-  "generatedAt": "2026-08-29T15:12:17.444Z",
+  "generatedAt": "2026-08-29T15:13:04.412Z",
   "titles": [
     {
       "id": "absolyutna-vlada",
