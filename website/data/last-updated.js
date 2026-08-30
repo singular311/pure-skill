@@ -12,7 +12,7 @@ window.LAST_UPDATED = {
   "posibnyk-slabaka-z-pidkorennya-vezhi": 1787746662,
   "svit-pislya-kintsya": 1787851509,
   "tilky-ya-mozhu-voskresaty": 1787849839,
-  "ya-yedynyi-fermer-v-pidzemelli": 1787841601,
+  "ya-yedynyi-fermer-v-pidzemelli": 1788098862,
   "yak-vyzhyty-yakshcho-ty-lord-vampiriv": 1788097788,
   "yak-demonichnyi-imperator-stav-dvoretskym": 1786270196,
   "henialnyi-pryzmatychnyi-mah": 1787844935,
