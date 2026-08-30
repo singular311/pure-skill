@@ -1095,7 +1095,8 @@ window.CUBARI_LINKS = {
       "108",
       "109",
       "110",
-      "111"
+      "111",
+      "112"
     ]
   },
   "neperevershenyi-demon-spysa": {
