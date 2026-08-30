@@ -1,5 +1,5 @@
 window.CATALOG_DATA = {
-  "generatedAt": "2026-08-30T14:07:07.935Z",
+  "generatedAt": "2026-08-30T14:20:49.683Z",
   "titles": [
     {
       "id": "absolyutna-vlada",
@@ -1940,10 +1940,14 @@ window.CATALOG_DATA = {
         {
           "number": "43",
           "pages": 35
+        },
+        {
+          "number": "44",
+          "pages": 40
         }
       ],
-      "latestChapter": "43",
-      "totalChapters": 43
+      "latestChapter": "44",
+      "totalChapters": 44
     },
     {
       "id": "yedynyi-nekromant",
