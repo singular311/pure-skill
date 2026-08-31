@@ -26,7 +26,8 @@ window.CUBARI_LINKS = {
       "67",
       "68",
       "69",
-      "70"
+      "70",
+      "71"
     ]
   },
   "absolyutnyi-nekromant": {
