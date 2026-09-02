@@ -1,5 +1,5 @@
 window.CATALOG_DATA = {
-  "generatedAt": "2026-09-02T10:30:56.911Z",
+  "generatedAt": "2026-09-02T10:36:32.741Z",
   "titles": [
     {
       "id": "absolyutna-vlada",
@@ -4947,7 +4947,7 @@ window.CATALOG_DATA = {
         },
         {
           "number": "27",
-          "pages": 42
+          "pages": 54
         },
         {
           "number": "28",
