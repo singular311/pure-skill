@@ -9,7 +9,7 @@ window.LAST_UPDATED = {
   "odnoho-dnya-ya-stav-drakonenyam": 1788187473,
   "pane-pozhyrachu-bud-laska-povodtesya-yak-finalnyi-bos": 1788189994,
   "povernennya-maha-z-netriv": 1785648286,
-  "posibnyk-slabaka-z-pidkorennya-vezhi": 1788277466,
+  "posibnyk-slabaka-z-pidkorennya-vezhi": 1788345094,
   "svit-pislya-kintsya": 1788186425,
   "tilky-ya-mozhu-voskresaty": 1788183483,
   "ya-yedynyi-fermer-v-pidzemelli": 1788098862,
