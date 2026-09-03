@@ -1,5 +1,5 @@
 window.CATALOG_DATA = {
-  "generatedAt": "2026-09-03T12:08:54.992Z",
+  "generatedAt": "2026-09-03T12:27:31.955Z",
   "titles": [
     {
       "id": "absolyutna-vlada",
@@ -3836,10 +3836,14 @@ window.CATALOG_DATA = {
         {
           "number": "41",
           "pages": 55
+        },
+        {
+          "number": "42",
+          "pages": 56
         }
       ],
-      "latestChapter": "41",
-      "totalChapters": 41
+      "latestChapter": "42",
+      "totalChapters": 42
     },
     {
       "id": "lytsar-vohnyu",
