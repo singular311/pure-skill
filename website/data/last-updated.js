@@ -10,7 +10,7 @@ window.LAST_UPDATED = {
   "pane-pozhyrachu-bud-laska-povodtesya-yak-finalnyi-bos": 1788189994,
   "povernennya-maha-z-netriv": 1785648286,
   "posibnyk-slabaka-z-pidkorennya-vezhi": 1788345419,
-  "svit-pislya-kintsya": 1788186425,
+  "svit-pislya-kintsya": 1788546520,
   "tilky-ya-mozhu-voskresaty": 1788544880,
   "ya-yedynyi-fermer-v-pidzemelli": 1788440000,
   "yak-vyzhyty-yakshcho-ty-lord-vampiriv": 1788097788,
