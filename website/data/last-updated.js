@@ -23,5 +23,5 @@ window.LAST_UPDATED = {
   "vyzhyvannya-u-hri-za-varvara": 1788437360,
   "velykyi-nebesnyi-povelytel-demoniv": 1788260181,
   "aster-buntar-domu-tyraniv": 1787747688,
-  "bezsmertnyi-khlopchyk": 1788258099
+  "bezsmertnyi-khlopchyk": 1788620720
 };
