@@ -13,7 +13,7 @@ window.LAST_UPDATED = {
   "svit-pislya-kintsya": 1788546520,
   "tilky-ya-mozhu-voskresaty": 1788544880,
   "ya-yedynyi-fermer-v-pidzemelli": 1788440000,
-  "yak-vyzhyty-yakshcho-ty-lord-vampiriv": 1788097788,
+  "yak-vyzhyty-yakshcho-ty-lord-vampiriv": 1788787661,
   "yak-demonichnyi-imperator-stav-dvoretskym": 1786270196,
   "henialnyi-pryzmatychnyi-mah": 1788440742,
   "absolyutna-vlada": 1788619382,
