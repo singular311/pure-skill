@@ -1,5 +1,5 @@
 window.CATALOG_DATA = {
-  "generatedAt": "2026-09-07T13:07:18.312Z",
+  "generatedAt": "2026-09-07T13:27:11.743Z",
   "titles": [
     {
       "id": "absolyutna-vlada",
@@ -6056,10 +6056,14 @@ window.CATALOG_DATA = {
         {
           "number": "58",
           "pages": 45
+        },
+        {
+          "number": "59",
+          "pages": 46
         }
       ],
-      "latestChapter": "58",
-      "totalChapters": 58
+      "latestChapter": "59",
+      "totalChapters": 59
     },
     {
       "id": "yak-demonichnyi-imperator-stav-dvoretskym",
