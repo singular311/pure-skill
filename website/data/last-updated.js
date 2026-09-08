@@ -3,7 +3,7 @@ window.LAST_UPDATED = {
   "zhnets-dreifuyuchoho-misyatsya": 1788700970,
   "istoriya-vyzhyvannya-korolya-mecha-u-inshomu-sviti": 1788700031,
   "koloryst": 1788788744,
-  "lytsar-vohnyu": 1788439023,
+  "lytsar-vohnyu": 1788878368,
   "vsuperech-zanepadu": 1788259378,
   "neperevershenyi-demon-spysa": 1785628773,
   "odnoho-dnya-ya-stav-drakonenyam": 1788549102,
