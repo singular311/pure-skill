@@ -1,5 +1,5 @@
 window.CATALOG_DATA = {
-  "generatedAt": "2026-09-08T15:50:56.045Z",
+  "generatedAt": "2026-09-09T14:45:50.736Z",
   "titles": [
     {
       "id": "absolyutna-vlada",
@@ -4654,10 +4654,14 @@ window.CATALOG_DATA = {
         {
           "number": "16",
           "pages": 50
+        },
+        {
+          "number": "17",
+          "pages": 41
         }
       ],
-      "latestChapter": "16",
-      "totalChapters": 16
+      "latestChapter": "17",
+      "totalChapters": 17
     },
     {
       "id": "pane-pozhyrachu-bud-laska-povodtesya-yak-finalnyi-bos",
