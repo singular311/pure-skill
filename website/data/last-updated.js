@@ -1,6 +1,6 @@
 window.LAST_UPDATED = {
   "yedynyi-nekromant": 1789046869,
-  "zhnets-dreifuyuchoho-misyatsya": 1788700970,
+  "zhnets-dreifuyuchoho-misyatsya": 1789052797,
   "istoriya-vyzhyvannya-korolya-mecha-u-inshomu-sviti": 1789052336,
   "koloryst": 1788788744,
   "lytsar-vohnyu": 1788878368,
