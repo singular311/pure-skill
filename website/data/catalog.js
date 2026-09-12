@@ -1,5 +1,5 @@
 window.CATALOG_DATA = {
-  "generatedAt": "2026-09-12T16:09:33.899Z",
+  "generatedAt": "2026-09-12T16:19:57.427Z",
   "titles": [
     {
       "id": "absolyutna-vlada",
@@ -1276,10 +1276,14 @@ window.CATALOG_DATA = {
         {
           "number": "63",
           "pages": 46
+        },
+        {
+          "number": "64",
+          "pages": 41
         }
       ],
-      "latestChapter": "63",
-      "totalChapters": 63
+      "latestChapter": "64",
+      "totalChapters": 64
     },
     {
       "id": "vyzhyvannya-nevylikovno-khvoroho-heniya",
