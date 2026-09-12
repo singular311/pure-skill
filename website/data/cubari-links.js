@@ -1510,7 +1510,8 @@ window.CUBARI_LINKS = {
       "17",
       "18",
       "19",
-      "20"
+      "20",
+      "21"
     ]
   },
   "ya-yedynyi-fermer-v-pidzemelli": {
