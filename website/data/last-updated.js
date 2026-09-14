@@ -6,7 +6,7 @@ window.LAST_UPDATED = {
   "lytsar-vohnyu": 1789137063,
   "vsuperech-zanepadu": 1789392312,
   "neperevershenyi-demon-spysa": 1785628773,
-  "odnoho-dnya-ya-stav-drakonenyam": 1788965188,
+  "odnoho-dnya-ya-stav-drakonenyam": 1789405883,
   "pane-pozhyrachu-bud-laska-povodtesya-yak-finalnyi-bos": 1789405015,
   "povernennya-maha-z-netriv": 1785648286,
   "posibnyk-slabaka-z-pidkorennya-vezhi": 1788794515,
