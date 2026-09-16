@@ -1,5 +1,5 @@
 window.CATALOG_DATA = {
-  "generatedAt": "2026-09-15T18:43:01.945Z",
+  "generatedAt": "2026-09-16T16:52:15.194Z",
   "titles": [
     {
       "id": "absolyutna-vlada",
@@ -2736,10 +2736,14 @@ window.CATALOG_DATA = {
         {
           "number": "93",
           "pages": 34
+        },
+        {
+          "number": "94",
+          "pages": 25
         }
       ],
-      "latestChapter": "93",
-      "totalChapters": 94
+      "latestChapter": "94",
+      "totalChapters": 95
     },
     {
       "id": "istoriya-vyzhyvannya-korolya-mecha-u-inshomu-sviti",
