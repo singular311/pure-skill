@@ -223,7 +223,8 @@ window.CUBARI_LINKS = {
       "68",
       "69",
       "70",
-      "71"
+      "71",
+      "72"
     ]
   },
   "bezsmertnyi-khlopchyk": {
