@@ -18,7 +18,7 @@ window.LAST_UPDATED = {
   "henialnyi-pryzmatychnyi-mah": 1789225619,
   "absolyutna-vlada": 1789229405,
   "absolyutnyi-nekromant": 1789474090,
-  "bastard-klanu-mecha-shlyakh-do-vyzhyvannya": 1789578544,
+  "bastard-klanu-mecha-shlyakh-do-vyzhyvannya": 1789579023,
   "vyzhyvannya-nevylikovno-khvoroho-heniya": 1789133155,
   "vyzhyvannya-u-hri-za-varvara": 1789136007,
   "velykyi-nebesnyi-povelytel-demoniv": 1789230020,
