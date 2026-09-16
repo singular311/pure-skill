@@ -1029,7 +1029,8 @@ window.CUBARI_LINKS = {
       "41",
       "42",
       "43",
-      "44"
+      "44",
+      "45"
     ]
   },
   "lytsar-vohnyu": {
