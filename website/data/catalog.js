@@ -1,5 +1,5 @@
 window.CATALOG_DATA = {
-  "generatedAt": "2026-09-16T17:08:37.664Z",
+  "generatedAt": "2026-09-16T17:16:55.811Z",
   "titles": [
     {
       "id": "absolyutna-vlada",
@@ -867,7 +867,7 @@ window.CATALOG_DATA = {
         },
         {
           "number": "72",
-          "pages": 63
+          "pages": 64
         }
       ],
       "latestChapter": "72",
@@ -1390,10 +1390,14 @@ window.CATALOG_DATA = {
         {
           "number": "21",
           "pages": 40
+        },
+        {
+          "number": "22",
+          "pages": 39
         }
       ],
-      "latestChapter": "21",
-      "totalChapters": 21
+      "latestChapter": "22",
+      "totalChapters": 22
     },
     {
       "id": "vyzhyvannya-u-hri-za-varvara",
